@@ -1,6 +1,6 @@
 #! /bin/sh
 
-./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClients3Microservice.csv -o "JMeter reports/csharp_micro" -Jjmeter.reportgenerator.overall_granularity=1000
-./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClients3Monlithic.csv -o "JMeter reports/csharp_mono" -Jjmeter.reportgenerator.overall_granularity=1000
-./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClients3MicroserviceJava.csv -o "JMeter reports/java_micro" -Jjmeter.reportgenerator.overall_granularity=1000
-./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClients3MonolithicJava.csv -o "JMeter reports/java_mono" -Jjmeter.reportgenerator.overall_granularity=1000
+./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClientsMicroservice.csv -o "JMeter reports/csharp_micro" -Jjmeter.reportgenerator.overall_granularity=60000 -Jjmeter.reportgenerator.exporter.html.graph_options.responseTimesOverTime.maxY=900
+./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClientsMonolithic.csv -o "JMeter reports/csharp_mono" -Jjmeter.reportgenerator.overall_granularity=60000 -Jjmeter.reportgenerator.exporter.html.graph_options.responseTimesOverTime.maxY=900
+./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClientsMicroserviceJava.csv -o "JMeter reports/java_micro" -Jjmeter.reportgenerator.overall_granularity=60000 -Jjmeter.reportgenerator.exporter.html.graph_options.responseTimesOverTime.maxY=4000
+./../Downloads/apache-jmeter-5.4.3/bin/jmeter -g data/JMeterClientsMonolithicJava.csv -o "JMeter reports/java_mono" -Jjmeter.reportgenerator.graph.responseTimesOverTime.property.set_granularity=60000 -Jjmeter.reportgenerator.exporter.html.graph_options.responseTimesOverTime.maxY=4000
