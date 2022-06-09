@@ -6,16 +6,18 @@ import json
 #df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/ApiGatewayService-java/RAPL-Microservice3.csv")
 #df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/monolithic-service-java/RAPL-MonolithicService3.csv")
 #df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/ApiGatewayService/RAPL-Microservice3.csv")
-#df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/monolithic-service/RAPL-MonolithicService3.csv")
-#df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/ApiGatewayService/RAPL-Microservice3.csv")
+df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/monolithic-service/RAPL-MonolithicService3.csv")
+df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/ApiGatewayService/RAPL-Microservice.csv")
 #df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/csharp/ApiGatewayService/databaseTest/RAPL-MicroserviceDB.csv")
-df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/ApiGatewayService-java/RAPL-Microservice3.csv")
-df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/ApiGatewayService-java/databaseTest/RAPL-MicroserviceJavaDB.csv")
+#df = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/ApiGatewayService-java/RAPL-Microservice3.csv")
+#df2 = pd.read_csv("/Users/Garrido/Documents/GitHub/P10/benchmark-results/java/ApiGatewayService-java/databaseTest/RAPL-MicroserviceJavaDB.csv")
 
 std_deviations = {}
 means = {}
 df = df.loc[(df['time_elapsed'].between(450, 7650))]
 df2 = df2.loc[(df2['time_elapsed'].between(450, 7650))]
+df = df.loc[(df['time_elapsed'].between(0, 5245))]
+df2 = df2.loc[(df2['time_elapsed'].between(0, 5245))]
 
 overall_means1 = format(np.mean(df.loc[(df["zone"] == "package-0")]['watts_since_last']), ".2f")
 overall_means2 = format(np.mean(df2.loc[(df2["zone"] == "package-0")]['watts_since_last']), ".2f")
