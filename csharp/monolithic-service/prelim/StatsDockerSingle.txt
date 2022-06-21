@@ -1,1139 +1,240 @@
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   24.47%    29.82MiB / 15.51GiB   0.19%     8.2kB / 1.6kB   25.2MB / 0B   29
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     31.61MiB / 15.51GiB   0.20%     2.25kB / 16.6kB   25.6MB / 0B   26
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   103.68%   98.37MiB / 15.51GiB   0.62%     401kB / 416kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     98.47MiB / 15.51GiB   0.62%     401kB / 416kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.04%     98.47MiB / 15.51GiB   0.62%     401kB / 416kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     98.47MiB / 15.51GiB   0.62%     401kB / 416kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.52%     98.96MiB / 15.51GiB   0.62%     402kB / 417kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.45%     99.8MiB / 15.51GiB   0.63%     409kB / 424kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.34%     99.72MiB / 15.51GiB   0.63%     410kB / 426kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.71%    102MiB / 15.51GiB   0.64%     417kB / 433kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     102.1MiB / 15.51GiB   0.64%     421kB / 436kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     102.1MiB / 15.51GiB   0.64%     421kB / 436kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.73%     102.4MiB / 15.51GiB   0.64%     422kB / 437kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.59%     102.8MiB / 15.51GiB   0.65%     426kB / 442kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.01%     103MiB / 15.51GiB   0.65%     437kB / 454kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     103.1MiB / 15.51GiB   0.65%     441kB / 459kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.76%     103.1MiB / 15.51GiB   0.65%     446kB / 465kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     103.1MiB / 15.51GiB   0.65%     447kB / 467kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.68%     103.3MiB / 15.51GiB   0.65%     449kB / 469kB   35.9MB / 0B   39
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.19%     103MiB / 15.51GiB   0.65%     454kB / 474kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.76%     102.9MiB / 15.51GiB   0.65%     457kB / 477kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.12%     102.9MiB / 15.51GiB   0.65%     460kB / 481kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.19%     103MiB / 15.51GiB   0.65%     462kB / 483kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.93%     103MiB / 15.51GiB   0.65%     466kB / 487kB   35.9MB / 0B   28
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.94%     103.1MiB / 15.51GiB   0.65%     472kB / 493kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.66%     103.2MiB / 15.51GiB   0.65%     477kB / 499kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.68%     103.3MiB / 15.51GiB   0.65%     482kB / 505kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.75%     103.3MiB / 15.51GiB   0.65%     485kB / 508kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.59%     103.4MiB / 15.51GiB   0.65%     488kB / 512kB   35.9MB / 0B   28
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.58%     105.5MiB / 15.51GiB   0.66%     506kB / 540kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.28%     105.7MiB / 15.51GiB   0.67%     537kB / 588kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.93%     105.9MiB / 15.51GiB   0.67%     560kB / 624kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.77%     106.1MiB / 15.51GiB   0.67%     577kB / 651kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.65%     106.3MiB / 15.51GiB   0.67%     606kB / 696kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.89%     106.7MiB / 15.51GiB   0.67%     621kB / 717kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.29%     106.7MiB / 15.51GiB   0.67%     633kB / 735kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.19%     106.8MiB / 15.51GiB   0.67%     640kB / 746kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.09%     106.9MiB / 15.51GiB   0.67%     643kB / 749kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.23%     107.2MiB / 15.51GiB   0.67%     646kB / 752kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.32%     107.4MiB / 15.51GiB   0.68%     651kB / 757kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.13%     107.6MiB / 15.51GiB   0.68%     656kB / 761kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.29%     107.3MiB / 15.51GiB   0.68%     659kB / 765kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.84%     107.3MiB / 15.51GiB   0.68%     661kB / 766kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.61%     108MiB / 15.51GiB   0.68%     664kB / 770kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.52%     108MiB / 15.51GiB   0.68%     667kB / 773kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     108.1MiB / 15.51GiB   0.68%     668kB / 774kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.11%     108.2MiB / 15.51GiB   0.68%     674kB / 780kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.20%     108.3MiB / 15.51GiB   0.68%     678kB / 786kB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.73%     108.3MiB / 15.51GiB   0.68%     681kB / 789kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.29%     108.4MiB / 15.51GiB   0.68%     686kB / 796kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.59%     108.4MiB / 15.51GiB   0.68%     687kB / 797kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.58%     108.6MiB / 15.51GiB   0.68%     689kB / 800kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.75%     108.6MiB / 15.51GiB   0.68%     694kB / 806kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.16%     108.7MiB / 15.51GiB   0.68%     698kB / 810kB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.22%     108.8MiB / 15.51GiB   0.69%     701kB / 813kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.14%     108.8MiB / 15.51GiB   0.68%     703kB / 817kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     108.7MiB / 15.51GiB   0.68%     705kB / 819kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.53%     109MiB / 15.51GiB   0.69%     707kB / 822kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.89%     109.1MiB / 15.51GiB   0.69%     712kB / 826kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.27%     109.2MiB / 15.51GiB   0.69%     720kB / 833kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.05%     109.2MiB / 15.51GiB   0.69%     720kB / 834kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.47%     109.4MiB / 15.51GiB   0.69%     723kB / 837kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.15%     109.4MiB / 15.51GiB   0.69%     726kB / 840kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     109.4MiB / 15.51GiB   0.69%     730kB / 844kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.83%     110.1MiB / 15.51GiB   0.69%     737kB / 852kB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.50%     110.1MiB / 15.51GiB   0.69%     741kB / 856kB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.05%     110.2MiB / 15.51GiB   0.69%     746kB / 861kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.96%     110.5MiB / 15.51GiB   0.70%     753kB / 869kB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.97%     110.5MiB / 15.51GiB   0.70%     761kB / 877kB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.42%     110.9MiB / 15.51GiB   0.70%     775kB / 891kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.28%     111.1MiB / 15.51GiB   0.70%     779kB / 895kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.37%     111.1MiB / 15.51GiB   0.70%     786kB / 903kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.45%     111.3MiB / 15.51GiB   0.70%     791kB / 909kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.25%     111.3MiB / 15.51GiB   0.70%     798kB / 917kB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.50%     111.2MiB / 15.51GiB   0.70%     804kB / 924kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.20%     111.5MiB / 15.51GiB   0.70%     815kB / 936kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.56%     111.7MiB / 15.51GiB   0.70%     833kB / 959kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.89%     111.8MiB / 15.51GiB   0.70%     842kB / 969kB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.50%     112.1MiB / 15.51GiB   0.71%     845kB / 972kB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.65%     111.9MiB / 15.51GiB   0.70%     848kB / 976kB   35.9MB / 0B   28
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.72%     112.7MiB / 15.51GiB   0.71%     866kB / 1MB   35.9MB / 0B   29
+324ede33795c   petstore-monolith   216.68%   108.4MiB / 15.51GiB   0.68%     1.01MB / 1.18MB   35.9MB / 0B   31
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.88%     113.2MiB / 15.51GiB   0.71%     894kB / 1.04MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.09%     113.3MiB / 15.51GiB   0.71%     904kB / 1.06MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.91%     113.5MiB / 15.51GiB   0.71%     926kB / 1.09MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.09%     113.7MiB / 15.51GiB   0.72%     947kB / 1.12MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.19%     113.9MiB / 15.51GiB   0.72%     966kB / 1.15MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.18%     114.1MiB / 15.51GiB   0.72%     979kB / 1.16MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.53%     114.2MiB / 15.51GiB   0.72%     985kB / 1.17MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   329.25%   152.8MiB / 15.51GiB   0.96%     3.82MB / 4.9MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.72%     114.4MiB / 15.51GiB   0.72%     1.01MB / 1.21MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   333.76%   192.7MiB / 15.51GiB   1.21%     6.34MB / 8.14MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.12%     114.8MiB / 15.51GiB   0.72%     1.03MB / 1.24MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   259.91%   223.5MiB / 15.51GiB   1.41%     9.14MB / 11.8MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.56%     114.8MiB / 15.51GiB   0.72%     1.05MB / 1.26MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.70%     115MiB / 15.51GiB   0.72%     1.07MB / 1.29MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   362.99%   223.5MiB / 15.51GiB   1.41%     11.7MB / 15.2MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.38%     115.4MiB / 15.51GiB   0.73%     1.11MB / 1.36MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.94%     115.6MiB / 15.51GiB   0.73%     1.14MB / 1.4MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   365.01%   223.8MiB / 15.51GiB   1.41%     14.5MB / 18.8MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     115.7MiB / 15.51GiB   0.73%     1.17MB / 1.44MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.01%     116MiB / 15.51GiB   0.73%     1.2MB / 1.48MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.64%     116.1MiB / 15.51GiB   0.73%     1.21MB / 1.5MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   356.69%   223.7MiB / 15.51GiB   1.41%     17.2MB / 22.3MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.15%     116.2MiB / 15.51GiB   0.73%     1.22MB / 1.51MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   347.82%   232.4MiB / 15.51GiB   1.46%     19.8MB / 25.7MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.61%     116.5MiB / 15.51GiB   0.73%     1.22MB / 1.52MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   358.72%   232.1MiB / 15.51GiB   1.46%     22.4MB / 29.3MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.14%     116.7MiB / 15.51GiB   0.73%     1.23MB / 1.53MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   368.27%   232.2MiB / 15.51GiB   1.46%     25.1MB / 32.9MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.04%     116.8MiB / 15.51GiB   0.74%     1.24MB / 1.54MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   298.04%   232.1MiB / 15.51GiB   1.46%     27.8MB / 36.6MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.60%     117.2MiB / 15.51GiB   0.74%     1.24MB / 1.54MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.73%     117MiB / 15.51GiB   0.74%     1.25MB / 1.55MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   340.84%   232.4MiB / 15.51GiB   1.46%     30.4MB / 40.1MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.06%     117.2MiB / 15.51GiB   0.74%     1.26MB / 1.55MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   361.59%   235.8MiB / 15.51GiB   1.48%     33.2MB / 43.9MB   35.9MB / 0B   50
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.99%     117.4MiB / 15.51GiB   0.74%     1.27MB / 1.57MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   357.12%   235.8MiB / 15.51GiB   1.48%     35.8MB / 47.4MB   35.9MB / 0B   49
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.14%     117.7MiB / 15.51GiB   0.74%     1.28MB / 1.58MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   351.64%   235.7MiB / 15.51GiB   1.48%     38.6MB / 51.1MB   35.9MB / 0B   47
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.09%     117.8MiB / 15.51GiB   0.74%     1.28MB / 1.58MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.60%     117.7MiB / 15.51GiB   0.74%     1.28MB / 1.58MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.31%     117.8MiB / 15.51GiB   0.74%     1.29MB / 1.59MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   353.22%   233.7MiB / 15.51GiB   1.47%     41.2MB / 54.7MB   35.9MB / 0B   46
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.18%     118.2MiB / 15.51GiB   0.74%     1.3MB / 1.6MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   375.03%   233.7MiB / 15.51GiB   1.47%     44MB / 58.4MB   35.9MB / 0B   45
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   374.34%   233.7MiB / 15.51GiB   1.47%     46.6MB / 62MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.58%     118.2MiB / 15.51GiB   0.74%     1.31MB / 1.61MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   316.56%   219.1MiB / 15.51GiB   1.38%     49.4MB / 65.8MB   35.9MB / 0B   44
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   349.21%   219.2MiB / 15.51GiB   1.38%     52MB / 69.3MB   35.9MB / 0B   44
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.82%   219.1MiB / 15.51GiB   1.38%     54.8MB / 73MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.04%     118.3MiB / 15.51GiB   0.74%     1.31MB / 1.62MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   324.85%   192.7MiB / 15.51GiB   1.21%     57.4MB / 76.6MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.90%     118.7MiB / 15.51GiB   0.75%     1.32MB / 1.63MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   344.08%   175.2MiB / 15.51GiB   1.10%     60.2MB / 80.3MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.33%     118.8MiB / 15.51GiB   0.75%     1.33MB / 1.64MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   326.69%   163.2MiB / 15.51GiB   1.03%     62.8MB / 83.9MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.60%     118.8MiB / 15.51GiB   0.75%     1.34MB / 1.65MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   328.59%   155.6MiB / 15.51GiB   0.98%     65.5MB / 87.5MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.65%     119.1MiB / 15.51GiB   0.75%     1.34MB / 1.65MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   350.79%   150.4MiB / 15.51GiB   0.95%     68.2MB / 91.1MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.93%     119.1MiB / 15.51GiB   0.75%     1.35MB / 1.66MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   339.92%   146.9MiB / 15.51GiB   0.92%     70.9MB / 94.8MB   35.9MB / 0B   43
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.60%     119.1MiB / 15.51GiB   0.75%     1.35MB / 1.66MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.93%     119.5MiB / 15.51GiB   0.75%     1.36MB / 1.68MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.43%     119.5MiB / 15.51GiB   0.75%     1.37MB / 1.68MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.71%     119.6MiB / 15.51GiB   0.75%     1.38MB / 1.69MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   340.12%   144.4MiB / 15.51GiB   0.91%     73.6MB / 98.4MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.87%     119.9MiB / 15.51GiB   0.75%     1.39MB / 1.7MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.92%     120MiB / 15.51GiB   0.76%     1.39MB / 1.7MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   341.07%   142.9MiB / 15.51GiB   0.90%     76.2MB / 102MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.89%     120.1MiB / 15.51GiB   0.76%     1.4MB / 1.71MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.29%     120.3MiB / 15.51GiB   0.76%     1.41MB / 1.72MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.37%     120.4MiB / 15.51GiB   0.76%     1.42MB / 1.74MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.95%     120.7MiB / 15.51GiB   0.76%     1.43MB / 1.75MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.45%     121MiB / 15.51GiB   0.76%     1.45MB / 1.77MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.40%     121.5MiB / 15.51GiB   0.76%     1.47MB / 1.79MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   344.07%   141.9MiB / 15.51GiB   0.89%     78.9MB / 106MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.60%     121.6MiB / 15.51GiB   0.77%     1.47MB / 1.8MB   35.9MB / 0B   32
+324ede33795c   petstore-monolith   308.33%   141.3MiB / 15.51GiB   0.89%     81.6MB / 109MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.11%     121.6MiB / 15.51GiB   0.77%     1.48MB / 1.8MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.67%     121.8MiB / 15.51GiB   0.77%     1.5MB / 1.84MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.22%     122.2MiB / 15.51GiB   0.77%     1.54MB / 1.88MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.70%     122.6MiB / 15.51GiB   0.77%     1.56MB / 1.91MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.24%     122.6MiB / 15.51GiB   0.77%     1.57MB / 1.93MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.27%     122.8MiB / 15.51GiB   0.77%     1.58MB / 1.94MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.74%     123.2MiB / 15.51GiB   0.78%     1.6MB / 1.97MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.06%    123.5MiB / 15.51GiB   0.78%     1.62MB / 1.99MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.39%     123.7MiB / 15.51GiB   0.78%     1.64MB / 2.02MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.66%     123.8MiB / 15.51GiB   0.78%     1.66MB / 2.04MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.98%     124MiB / 15.51GiB   0.78%     1.67MB / 2.06MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.39%     124.1MiB / 15.51GiB   0.78%     1.68MB / 2.07MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.08%     124.3MiB / 15.51GiB   0.78%     1.7MB / 2.09MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.71%     124.9MiB / 15.51GiB   0.79%     1.73MB / 2.13MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.85%     125.2MiB / 15.51GiB   0.79%     1.78MB / 2.2MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.72%     125.4MiB / 15.51GiB   0.79%     1.79MB / 2.23MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.82%     125.5MiB / 15.51GiB   0.79%     1.81MB / 2.25MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.89%     126MiB / 15.51GiB   0.79%     1.86MB / 2.32MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.75%     126.2MiB / 15.51GiB   0.79%     1.88MB / 2.36MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.44%     126.6MiB / 15.51GiB   0.80%     1.93MB / 2.44MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.56%     126.9MiB / 15.51GiB   0.80%     1.98MB / 2.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.00%    132.8MiB / 15.51GiB   0.84%     2.02MB / 2.57MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.64%     133MiB / 15.51GiB   0.84%     2.06MB / 2.63MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.82%     133MiB / 15.51GiB   0.84%     2.06MB / 2.63MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.59%     133.4MiB / 15.51GiB   0.84%     2.1MB / 2.68MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.34%     133.6MiB / 15.51GiB   0.84%     2.12MB / 2.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.99%     133.9MiB / 15.51GiB   0.84%     2.13MB / 2.73MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.52%     134.1MiB / 15.51GiB   0.84%     2.14MB / 2.73MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.83%     134.5MiB / 15.51GiB   0.85%     2.15MB / 2.74MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.57%     134.6MiB / 15.51GiB   0.85%     2.16MB / 2.75MB   35.9MB / 0B   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.26%     135.1MiB / 15.51GiB   0.85%     2.17MB / 2.77MB   35.9MB / 0B   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.73%     135.2MiB / 15.51GiB   0.85%     2.18MB / 2.78MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.87%     135.3MiB / 15.51GiB   0.85%     2.19MB / 2.79MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.15%     135.8MiB / 15.51GiB   0.85%     2.2MB / 2.81MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.22%     135.8MiB / 15.51GiB   0.85%     2.21MB / 2.81MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.42%     135.9MiB / 15.51GiB   0.86%     2.22MB / 2.82MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.75%     136MiB / 15.51GiB   0.86%     2.23MB / 2.83MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.50%     136.2MiB / 15.51GiB   0.86%     2.24MB / 2.85MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.50%     136.4MiB / 15.51GiB   0.86%     2.25MB / 2.86MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.35%     136.5MiB / 15.51GiB   0.86%     2.26MB / 2.87MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.59%     136.8MiB / 15.51GiB   0.86%     2.27MB / 2.88MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.86%     137MiB / 15.51GiB   0.86%     2.28MB / 2.89MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.02%     137.2MiB / 15.51GiB   0.86%     2.29MB / 2.9MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.87%     137.3MiB / 15.51GiB   0.86%     2.3MB / 2.91MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.55%     137.5MiB / 15.51GiB   0.87%     2.31MB / 2.92MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.57%     137.7MiB / 15.51GiB   0.87%     2.32MB / 2.94MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.94%     137.9MiB / 15.51GiB   0.87%     2.33MB / 2.95MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.15%     138.1MiB / 15.51GiB   0.87%     2.34MB / 2.95MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.18%     138.5MiB / 15.51GiB   0.87%     2.35MB / 2.97MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.39%     138.6MiB / 15.51GiB   0.87%     2.37MB / 2.99MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.84%     139.1MiB / 15.51GiB   0.88%     2.39MB / 3.01MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.69%     139MiB / 15.51GiB   0.88%     2.39MB / 3.02MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.78%     139.2MiB / 15.51GiB   0.88%     2.41MB / 3.04MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.92%     139.4MiB / 15.51GiB   0.88%     2.42MB / 3.04MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.40%    139.9MiB / 15.51GiB   0.88%     2.44MB / 3.08MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.20%     140.1MiB / 15.51GiB   0.88%     2.45MB / 3.09MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.55%     140.5MiB / 15.51GiB   0.88%     2.47MB / 3.11MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.98%     140.7MiB / 15.51GiB   0.89%     2.5MB / 3.14MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.55%     141.1MiB / 15.51GiB   0.89%     2.52MB / 3.16MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.59%     141.6MiB / 15.51GiB   0.89%     2.54MB / 3.19MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.94%     141.7MiB / 15.51GiB   0.89%     2.57MB / 3.23MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.88%     142MiB / 15.51GiB   0.89%     2.58MB / 3.25MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.94%     142.5MiB / 15.51GiB   0.90%     2.61MB / 3.27MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.07%     142.8MiB / 15.51GiB   0.90%     2.64MB / 3.32MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.43%     143MiB / 15.51GiB   0.90%     2.66MB / 3.34MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.94%     143.1MiB / 15.51GiB   0.90%     2.68MB / 3.37MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.19%     143.5MiB / 15.51GiB   0.90%     2.71MB / 3.41MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.92%     143.8MiB / 15.51GiB   0.91%     2.75MB / 3.46MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.30%     144.4MiB / 15.51GiB   0.91%     2.79MB / 3.53MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.88%     144.7MiB / 15.51GiB   0.91%     2.83MB / 3.58MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.85%     144.8MiB / 15.51GiB   0.91%     2.86MB / 3.62MB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.88%     145.1MiB / 15.51GiB   0.91%     2.88MB / 3.64MB   35.9MB / 0B   30
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.16%     145.5MiB / 15.51GiB   0.92%     2.9MB / 3.68MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.61%     145.7MiB / 15.51GiB   0.92%     2.93MB / 3.71MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.21%    146MiB / 15.51GiB   0.92%     2.97MB / 3.76MB   35.9MB / 0B   29
+324ede33795c   petstore-monolith   339.61%   140.7MiB / 15.51GiB   0.89%     84.3MB / 113MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.13%     146.6MiB / 15.51GiB   0.92%     3MB / 3.81MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.68%     146.8MiB / 15.51GiB   0.92%     3.04MB / 3.86MB   35.9MB / 0B   29
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.85%     147.1MiB / 15.51GiB   0.93%     3.06MB / 3.89MB   35.9MB / 0B   29
+324ede33795c   petstore-monolith   337.42%   140.6MiB / 15.51GiB   0.88%     87MB / 116MB   35.9MB / 0B   41
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.64%     147.6MiB / 15.51GiB   0.93%     3.1MB / 3.95MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.03%     147.9MiB / 15.51GiB   0.93%     3.14MB / 4.01MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.78%     148.3MiB / 15.51GiB   0.93%     3.18MB / 4.07MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.13%     148.9MiB / 15.51GiB   0.94%     3.24MB / 4.16MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.48%     149.1MiB / 15.51GiB   0.94%     3.27MB / 4.19MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.56%     149.4MiB / 15.51GiB   0.94%     3.29MB / 4.23MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.95%     149.9MiB / 15.51GiB   0.94%     3.32MB / 4.26MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.95%     150MiB / 15.51GiB   0.94%     3.33MB / 4.27MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.78%     150.3MiB / 15.51GiB   0.95%     3.36MB / 4.32MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.08%     150.7MiB / 15.51GiB   0.95%     3.37MB / 4.33MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.74%     151.1MiB / 15.51GiB   0.95%     3.38MB / 4.34MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   345.04%   140.4MiB / 15.51GiB   0.88%     89.7MB / 120MB   35.9MB / 0B   41
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.74%     151.3MiB / 15.51GiB   0.95%     3.4MB / 4.36MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.38%     151.3MiB / 15.51GiB   0.95%     3.41MB / 4.37MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.81%     151.9MiB / 15.51GiB   0.96%     3.42MB / 4.39MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.16%     152.3MiB / 15.51GiB   0.96%     3.44MB / 4.4MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.23%     152.3MiB / 15.51GiB   0.96%     3.45MB / 4.42MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.42%     152.6MiB / 15.51GiB   0.96%     3.47MB / 4.43MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.08%     152.8MiB / 15.51GiB   0.96%     3.47MB / 4.44MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.03%     153.3MiB / 15.51GiB   0.97%     3.49MB / 4.46MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.00%     153.6MiB / 15.51GiB   0.97%     3.51MB / 4.48MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.61%     153.6MiB / 15.51GiB   0.97%     3.52MB / 4.49MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.76%     153.9MiB / 15.51GiB   0.97%     3.53MB / 4.51MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.37%     154.1MiB / 15.51GiB   0.97%     3.55MB / 4.52MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   2.62%     154.3MiB / 15.51GiB   0.97%     3.55MB / 4.52MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.04%     154.8MiB / 15.51GiB   0.97%     3.58MB / 4.56MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.68%     155.3MiB / 15.51GiB   0.98%     3.6MB / 4.58MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   1.77%     155.2MiB / 15.51GiB   0.98%     3.62MB / 4.6MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.84%     155.6MiB / 15.51GiB   0.98%     3.63MB / 4.62MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.94%     155.9MiB / 15.51GiB   0.98%     3.64MB / 4.63MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.55%     156.4MiB / 15.51GiB   0.98%     3.67MB / 4.66MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.52%     156.4MiB / 15.51GiB   0.98%     3.68MB / 4.67MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.84%     156.8MiB / 15.51GiB   0.99%     3.7MB / 4.69MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.70%     157MiB / 15.51GiB   0.99%     3.72MB / 4.72MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.67%     157.3MiB / 15.51GiB   0.99%     3.74MB / 4.75MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.24%     157.7MiB / 15.51GiB   0.99%     3.76MB / 4.77MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.43%    158MiB / 15.51GiB   0.99%     3.8MB / 4.81MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.90%     158.2MiB / 15.51GiB   1.00%     3.81MB / 4.83MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.47%    158.7MiB / 15.51GiB   1.00%     3.84MB / 4.86MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.58%     159.2MiB / 15.51GiB   1.00%     3.86MB / 4.89MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.00%     159.7MiB / 15.51GiB   1.01%     3.89MB / 4.92MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   17.11%    160.7MiB / 15.51GiB   1.01%     3.95MB / 4.99MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.69%     160.9MiB / 15.51GiB   1.01%     3.97MB / 5.02MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.71%     161.1MiB / 15.51GiB   1.01%     3.98MB / 5.03MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.01%     161.6MiB / 15.51GiB   1.02%     4.02MB / 5.09MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.01%    162.4MiB / 15.51GiB   1.02%     4.09MB / 5.18MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.48%     162.8MiB / 15.51GiB   1.02%     4.13MB / 5.23MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.80%     163.3MiB / 15.51GiB   1.03%     4.18MB / 5.3MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.46%     163.9MiB / 15.51GiB   1.03%     4.23MB / 5.36MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.90%     164.2MiB / 15.51GiB   1.03%     4.27MB / 5.41MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.98%     164.6MiB / 15.51GiB   1.04%     4.3MB / 5.46MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.75%     165.1MiB / 15.51GiB   1.04%     4.33MB / 5.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.52%     165.6MiB / 15.51GiB   1.04%     4.38MB / 5.56MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.14%     166MiB / 15.51GiB   1.05%     4.42MB / 5.63MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.26%     166.5MiB / 15.51GiB   1.05%     4.47MB / 5.68MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.77%     167MiB / 15.51GiB   1.05%     4.51MB / 5.74MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.25%     167.6MiB / 15.51GiB   1.06%     4.56MB / 5.8MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.37%     167.9MiB / 15.51GiB   1.06%     4.59MB / 5.85MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.08%    168.5MiB / 15.51GiB   1.06%     4.63MB / 5.9MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.56%     169MiB / 15.51GiB   1.06%     4.69MB / 5.98MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.51%     169.6MiB / 15.51GiB   1.07%     4.71MB / 6.01MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.68%     170.1MiB / 15.51GiB   1.07%     4.79MB / 6.12MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.04%     170.6MiB / 15.51GiB   1.07%     4.82MB / 6.16MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.47%     171.3MiB / 15.51GiB   1.08%     4.91MB / 6.3MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.30%     171.7MiB / 15.51GiB   1.08%     4.94MB / 6.34MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.44%     172.4MiB / 15.51GiB   1.09%     5.02MB / 6.46MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.95%     172.9MiB / 15.51GiB   1.09%     5.06MB / 6.52MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.50%     173.2MiB / 15.51GiB   1.09%     5.1MB / 6.57MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.02%    174.1MiB / 15.51GiB   1.10%     5.14MB / 6.61MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.85%    174.4MiB / 15.51GiB   1.10%     5.18MB / 6.66MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.19%     174.8MiB / 15.51GiB   1.10%     5.2MB / 6.69MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.26%     175.2MiB / 15.51GiB   1.10%     5.22MB / 6.71MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.83%     175.4MiB / 15.51GiB   1.10%     5.23MB / 6.72MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.32%    175.9MiB / 15.51GiB   1.11%     5.25MB / 6.74MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.75%     176.4MiB / 15.51GiB   1.11%     5.28MB / 6.77MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.73%    177MiB / 15.51GiB   1.11%     5.3MB / 6.79MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.20%     177.3MiB / 15.51GiB   1.12%     5.32MB / 6.82MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.12%     177.8MiB / 15.51GiB   1.12%     5.35MB / 6.84MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.79%     178MiB / 15.51GiB   1.12%     5.36MB / 6.86MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   3.51%     178.3MiB / 15.51GiB   1.12%     5.38MB / 6.87MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.08%    178.9MiB / 15.51GiB   1.13%     5.4MB / 6.9MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.72%    179.3MiB / 15.51GiB   1.13%     5.42MB / 6.93MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.06%     179.6MiB / 15.51GiB   1.13%     5.45MB / 6.96MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.94%     180.1MiB / 15.51GiB   1.13%     5.48MB / 6.99MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.02%    180.6MiB / 15.51GiB   1.14%     5.49MB / 7.01MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.59%     180.7MiB / 15.51GiB   1.14%     5.51MB / 7.03MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.94%    181.1MiB / 15.51GiB   1.14%     5.54MB / 7.06MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.38%    181.5MiB / 15.51GiB   1.14%     5.56MB / 7.09MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.90%    182.1MiB / 15.51GiB   1.15%     5.61MB / 7.15MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.71%     183MiB / 15.51GiB   1.15%     5.64MB / 7.19MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.37%     183.4MiB / 15.51GiB   1.15%     5.69MB / 7.25MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   5.09%     183.8MiB / 15.51GiB   1.16%     5.7MB / 7.27MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   4.93%     184MiB / 15.51GiB   1.16%     5.73MB / 7.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   23.46%    194.2MiB / 15.51GiB   1.22%     5.76MB / 7.33MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.77%    194.7MiB / 15.51GiB   1.23%     5.81MB / 7.39MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.30%    195.3MiB / 15.51GiB   1.23%     5.85MB / 7.45MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.00%     195.9MiB / 15.51GiB   1.23%     5.89MB / 7.5MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.04%     194MiB / 15.51GiB   1.22%     5.92MB / 7.53MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.49%    194.6MiB / 15.51GiB   1.22%     5.96MB / 7.58MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   342.48%   140.5MiB / 15.51GiB   0.88%     92.3MB / 124MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.38%    195.2MiB / 15.51GiB   1.23%     6MB / 7.63MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.66%    196.1MiB / 15.51GiB   1.23%     6.07MB / 7.72MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.02%    196.9MiB / 15.51GiB   1.24%     6.12MB / 7.77MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.20%     197.6MiB / 15.51GiB   1.24%     6.16MB / 7.83MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.30%    198.1MiB / 15.51GiB   1.25%     6.21MB / 7.89MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.42%     198.5MiB / 15.51GiB   1.25%     6.23MB / 7.92MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   18.22%    199.1MiB / 15.51GiB   1.25%     6.29MB / 7.99MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.93%    200.1MiB / 15.51GiB   1.26%     6.34MB / 8.07MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.45%    200.5MiB / 15.51GiB   1.26%     6.41MB / 8.15MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.28%    201.3MiB / 15.51GiB   1.27%     6.47MB / 8.23MB   35.9MB / 0B   31
+324ede33795c   petstore-monolith   342.38%   140.5MiB / 15.51GiB   0.88%     95MB / 127MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.81%     201.9MiB / 15.51GiB   1.27%     6.5MB / 8.27MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.16%    202.4MiB / 15.51GiB   1.27%     6.56MB / 8.35MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.20%    202.9MiB / 15.51GiB   1.28%     6.6MB / 8.41MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.42%     203.5MiB / 15.51GiB   1.28%     6.66MB / 8.48MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.45%    204MiB / 15.51GiB   1.28%     6.72MB / 8.57MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.80%    204.8MiB / 15.51GiB   1.29%     6.77MB / 8.63MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.63%    205.6MiB / 15.51GiB   1.29%     6.84MB / 8.73MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.98%     206.1MiB / 15.51GiB   1.30%     6.9MB / 8.82MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.90%    206.8MiB / 15.51GiB   1.30%     6.96MB / 8.9MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.00%     207.3MiB / 15.51GiB   1.31%     7.01MB / 8.97MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.05%    208.5MiB / 15.51GiB   1.31%     7.07MB / 9.04MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.11%     209.1MiB / 15.51GiB   1.32%     7.12MB / 9.12MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.06%    209.9MiB / 15.51GiB   1.32%     7.18MB / 9.2MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.63%    210.9MiB / 15.51GiB   1.33%     7.28MB / 9.34MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.46%    211.6MiB / 15.51GiB   1.33%     7.35MB / 9.44MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.30%    212MiB / 15.51GiB   1.33%     7.41MB / 9.52MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.77%    212.7MiB / 15.51GiB   1.34%     7.48MB / 9.62MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.90%    213.8MiB / 15.51GiB   1.35%     7.54MB / 9.71MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.14%     214.1MiB / 15.51GiB   1.35%     7.58MB / 9.76MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.98%    214.8MiB / 15.51GiB   1.35%     7.63MB / 9.82MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.63%    215.4MiB / 15.51GiB   1.36%     7.66MB / 9.86MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   6.81%     215.7MiB / 15.51GiB   1.36%     7.69MB / 9.89MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.52%    216.5MiB / 15.51GiB   1.36%     7.73MB / 9.94MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.50%    217MiB / 15.51GiB   1.37%     7.75MB / 9.97MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   342.36%   140.2MiB / 15.51GiB   0.88%     97.7MB / 131MB   35.9MB / 0B   41
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.60%    217.9MiB / 15.51GiB   1.37%     7.79MB / 10MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   332.69%   140.1MiB / 15.51GiB   0.88%     100MB / 135MB   35.9MB / 0B   41
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.06%    218.6MiB / 15.51GiB   1.38%     7.82MB / 10MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.98%     219MiB / 15.51GiB   1.38%     7.86MB / 10.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.43%    219.5MiB / 15.51GiB   1.38%     7.89MB / 10.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.57%    219.9MiB / 15.51GiB   1.38%     7.91MB / 10.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.78%     220.5MiB / 15.51GiB   1.39%     7.95MB / 10.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.24%     221MiB / 15.51GiB   1.39%     7.98MB / 10.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.14%    221.7MiB / 15.51GiB   1.40%     8.02MB / 10.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.72%    222MiB / 15.51GiB   1.40%     8.05MB / 10.3MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.85%     222.6MiB / 15.51GiB   1.40%     8.09MB / 10.4MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.76%    223.8MiB / 15.51GiB   1.41%     8.13MB / 10.4MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.71%     223.6MiB / 15.51GiB   1.41%     8.16MB / 10.4MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.48%     223.8MiB / 15.51GiB   1.41%     8.2MB / 10.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.39%    223.7MiB / 15.51GiB   1.41%     8.24MB / 10.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.35%    223.6MiB / 15.51GiB   1.41%     8.27MB / 10.6MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.25%    223.6MiB / 15.51GiB   1.41%     8.34MB / 10.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.94%    223.6MiB / 15.51GiB   1.41%     8.37MB / 10.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.48%    223.6MiB / 15.51GiB   1.41%     8.4MB / 10.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.43%     223.6MiB / 15.51GiB   1.41%     8.44MB / 10.8MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.74%    223.7MiB / 15.51GiB   1.41%     8.49MB / 10.9MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.06%    223.8MiB / 15.51GiB   1.41%     8.55MB / 10.9MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   337.36%   131.6MiB / 15.51GiB   0.83%     103MB / 138MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.82%    223.7MiB / 15.51GiB   1.41%     8.59MB / 11MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.24%     223.7MiB / 15.51GiB   1.41%     8.63MB / 11MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.58%    223.7MiB / 15.51GiB   1.41%     8.68MB / 11.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.45%    223.8MiB / 15.51GiB   1.41%     8.71MB / 11.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.76%    223.7MiB / 15.51GiB   1.41%     8.77MB / 11.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.99%    223.7MiB / 15.51GiB   1.41%     8.82MB / 11.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.33%    223.8MiB / 15.51GiB   1.41%     8.88MB / 11.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.92%    223.9MiB / 15.51GiB   1.41%     8.95MB / 11.4MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.96%    223.8MiB / 15.51GiB   1.41%     9MB / 11.5MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.43%    223.9MiB / 15.51GiB   1.41%     9.07MB / 11.6MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.16%    223.8MiB / 15.51GiB   1.41%     9.12MB / 11.6MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   19.39%    223.8MiB / 15.51GiB   1.41%     9.18MB / 11.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.71%    223.8MiB / 15.51GiB   1.41%     9.25MB / 11.8MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.69%    223.8MiB / 15.51GiB   1.41%     9.31MB / 11.9MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   18.36%    223.8MiB / 15.51GiB   1.41%     9.39MB / 12MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   7.14%     223.8MiB / 15.51GiB   1.41%     9.43MB / 12.1MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.22%    223.8MiB / 15.51GiB   1.41%     9.49MB / 12.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   19.93%    223.8MiB / 15.51GiB   1.41%     9.58MB / 12.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.80%    223.8MiB / 15.51GiB   1.41%     9.65MB / 12.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.62%     223.8MiB / 15.51GiB   1.41%     9.71MB / 12.4MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.80%    223.8MiB / 15.51GiB   1.41%     9.79MB / 12.5MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.54%     223.8MiB / 15.51GiB   1.41%     9.84MB / 12.6MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.61%    223.8MiB / 15.51GiB   1.41%     9.91MB / 12.7MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   19.91%    223.8MiB / 15.51GiB   1.41%     9.98MB / 12.8MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.92%    223.8MiB / 15.51GiB   1.41%     10.1MB / 12.9MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.34%    223.8MiB / 15.51GiB   1.41%     10.2MB / 13MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.59%    223.8MiB / 15.51GiB   1.41%     10.2MB / 13.1MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   16.10%    223.9MiB / 15.51GiB   1.41%     10.3MB / 13.2MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.30%    223.9MiB / 15.51GiB   1.41%     10.4MB / 13.3MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.58%    223.9MiB / 15.51GiB   1.41%     10.5MB / 13.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   9.44%     223.8MiB / 15.51GiB   1.41%     10.5MB / 13.5MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.37%    223.8MiB / 15.51GiB   1.41%     10.6MB / 13.7MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   18.36%    223.8MiB / 15.51GiB   1.41%     10.7MB / 13.8MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.24%    223.9MiB / 15.51GiB   1.41%     10.7MB / 13.8MB   35.9MB / 0B   31
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.15%    223.8MiB / 15.51GiB   1.41%     10.8MB / 13.9MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.29%    223.9MiB / 15.51GiB   1.41%     10.8MB / 14MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   18.83%    223.8MiB / 15.51GiB   1.41%     10.9MB / 14MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   329.44%   125.6MiB / 15.51GiB   0.79%     106MB / 142MB   35.9MB / 0B   42
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   15.18%    224MiB / 15.51GiB   1.41%     10.9MB / 14MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   293.08%   123MiB / 15.51GiB   0.77%     108MB / 145MB   35.9MB / 0B   41
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   19.46%    224MiB / 15.51GiB   1.41%     11MB / 14.1MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   333.56%   121MiB / 15.51GiB   0.76%     111MB / 149MB   35.9MB / 0B   40
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.59%    223.8MiB / 15.51GiB   1.41%     11MB / 14.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.28%    223.8MiB / 15.51GiB   1.41%     11MB / 14.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.64%    223.9MiB / 15.51GiB   1.41%     11.1MB / 14.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   10.38%    223.8MiB / 15.51GiB   1.41%     11.1MB / 14.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.16%    223.8MiB / 15.51GiB   1.41%     11.2MB / 14.3MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.73%    224MiB / 15.51GiB   1.41%     11.2MB / 14.4MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   17.08%    223.9MiB / 15.51GiB   1.41%     11.2MB / 14.4MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   11.95%    224MiB / 15.51GiB   1.41%     11.3MB / 14.5MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.12%    224MiB / 15.51GiB   1.41%     11.3MB / 14.5MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   13.66%    224MiB / 15.51GiB   1.41%     11.4MB / 14.6MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   14.44%    224.1MiB / 15.51GiB   1.41%     11.4MB / 14.6MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   20.65%    224MiB / 15.51GiB   1.41%     11.5MB / 14.7MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   12.40%    224MiB / 15.51GiB   1.41%     11.5MB / 14.8MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   20.62%    224.1MiB / 15.51GiB   1.41%     11.6MB / 14.9MB   35.9MB / 0B   32
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   8.94%     223.9MiB / 15.51GiB   1.41%     11.6MB / 14.9MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   17.01%    223.9MiB / 15.51GiB   1.41%     11.7MB / 15MB   35.9MB / 0B   33
+324ede33795c   petstore-monolith   334.76%   119.6MiB / 15.51GiB   0.75%     114MB / 152MB   35.9MB / 0B   40
 CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   17.32%    224MiB / 15.51GiB   1.41%     11.7MB / 15MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   23.55%    223.8MiB / 15.51GiB   1.41%     11.8MB / 15.1MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   27.02%    223.7MiB / 15.51GiB   1.41%     11.9MB / 15.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   19.06%    223.7MiB / 15.51GiB   1.41%     11.9MB / 15.2MB   35.9MB / 0B   33
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   120.36%   224.4MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     224.4MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   35
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.03%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.13%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.13%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.14%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.13%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     224.3MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   34
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.14%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     224MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   25
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.13%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.12%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.9MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.22%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.14%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.13%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.02%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.12%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
-ef17134d28d5   petstore-monolith   0.01%     223.8MiB / 15.51GiB   1.41%     12.1MB / 15.4MB   35.9MB / 0B   23
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
-CONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+324ede33795c   petstore-monolith   325.10%   119MiB / 15.51GiB   0.75%     116MB / 156MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   290.13%   117.4MiB / 15.51GiB   0.74%     119MB / 160MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   331.17%   116.7MiB / 15.51GiB   0.73%     122MB / 163MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   332.38%   116.5MiB / 15.51GiB   0.73%     124MB / 167MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.23%   115.8MiB / 15.51GiB   0.73%     127MB / 171MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   338.00%   115MiB / 15.51GiB   0.72%     130MB / 174MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   346.00%   115.4MiB / 15.51GiB   0.73%     133MB / 178MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   327.63%   114.9MiB / 15.51GiB   0.72%     135MB / 182MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   343.18%   114.8MiB / 15.51GiB   0.72%     138MB / 185MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   342.18%   114.7MiB / 15.51GiB   0.72%     141MB / 189MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   331.58%   114.8MiB / 15.51GiB   0.72%     143MB / 192MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   332.54%   114.9MiB / 15.51GiB   0.72%     146MB / 196MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.28%   114.7MiB / 15.51GiB   0.72%     149MB / 200MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.82%   114.7MiB / 15.51GiB   0.72%     151MB / 203MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.52%   114.7MiB / 15.51GiB   0.72%     154MB / 207MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.54%   115MiB / 15.51GiB   0.72%     157MB / 211MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   337.51%   114.5MiB / 15.51GiB   0.72%     159MB / 214MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   336.15%   114.7MiB / 15.51GiB   0.72%     162MB / 218MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.24%   114.4MiB / 15.51GiB   0.72%     165MB / 222MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.36%   114.5MiB / 15.51GiB   0.72%     167MB / 225MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   339.11%   114.4MiB / 15.51GiB   0.72%     170MB / 229MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.89%   114.3MiB / 15.51GiB   0.72%     173MB / 232MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   337.36%   114.7MiB / 15.51GiB   0.72%     176MB / 236MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   340.14%   114.4MiB / 15.51GiB   0.72%     178MB / 240MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   332.81%   114.7MiB / 15.51GiB   0.72%     181MB / 243MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   332.60%   114.3MiB / 15.51GiB   0.72%     184MB / 247MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   340.78%   114.6MiB / 15.51GiB   0.72%     186MB / 251MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   336.04%   114.4MiB / 15.51GiB   0.72%     189MB / 254MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   326.31%   114.4MiB / 15.51GiB   0.72%     192MB / 258MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   330.72%   114.5MiB / 15.51GiB   0.72%     194MB / 262MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   328.26%   114.5MiB / 15.51GiB   0.72%     197MB / 265MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   308.91%   114.4MiB / 15.51GiB   0.72%     199MB / 269MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   332.86%   114.3MiB / 15.51GiB   0.72%     202MB / 272MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   338.70%   114.4MiB / 15.51GiB   0.72%     205MB / 276MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   339.58%   114.4MiB / 15.51GiB   0.72%     207MB / 279MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   334.31%   114.7MiB / 15.51GiB   0.72%     210MB / 283MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   343.20%   114.6MiB / 15.51GiB   0.72%     213MB / 287MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   339.33%   114.7MiB / 15.51GiB   0.72%     215MB / 290MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   330.59%   114.9MiB / 15.51GiB   0.72%     218MB / 294MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.49%   114.6MiB / 15.51GiB   0.72%     221MB / 297MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   336.59%   114.6MiB / 15.51GiB   0.72%     224MB / 301MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   355.00%   114.4MiB / 15.51GiB   0.72%     226MB / 305MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   340.71%   114.7MiB / 15.51GiB   0.72%     229MB / 308MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   331.62%   115.1MiB / 15.51GiB   0.72%     232MB / 312MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   339.03%   115.1MiB / 15.51GiB   0.72%     234MB / 316MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   349.10%   114.8MiB / 15.51GiB   0.72%     237MB / 319MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   342.85%   114.7MiB / 15.51GiB   0.72%     240MB / 323MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   346.93%   114.8MiB / 15.51GiB   0.72%     242MB / 327MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   318.45%   115MiB / 15.51GiB   0.72%     245MB / 330MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   316.61%   114.9MiB / 15.51GiB   0.72%     248MB / 334MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   343.32%   114.7MiB / 15.51GiB   0.72%     250MB / 337MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   318.95%   114.7MiB / 15.51GiB   0.72%     253MB / 341MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   352.18%   114.6MiB / 15.51GiB   0.72%     256MB / 345MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   334.83%   114.8MiB / 15.51GiB   0.72%     258MB / 348MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   352.74%   114.8MiB / 15.51GiB   0.72%     261MB / 352MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   353.75%   115.2MiB / 15.51GiB   0.73%     264MB / 356MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   349.00%   114.9MiB / 15.51GiB   0.72%     266MB / 359MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   341.83%   115MiB / 15.51GiB   0.72%     269MB / 363MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   347.71%   114.8MiB / 15.51GiB   0.72%     272MB / 366MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   338.40%   114.9MiB / 15.51GiB   0.72%     274MB / 370MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   341.83%   115.1MiB / 15.51GiB   0.72%     277MB / 374MB   35.9MB / 0B   41
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   333.50%   114.9MiB / 15.51GiB   0.72%     280MB / 377MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.18%   115.4MiB / 15.51GiB   0.73%     283MB / 381MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   338.95%   114.8MiB / 15.51GiB   0.72%     285MB / 385MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   301.89%   114.9MiB / 15.51GiB   0.72%     288MB / 388MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   340.87%   115MiB / 15.51GiB   0.72%     290MB / 392MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   335.87%   114.9MiB / 15.51GiB   0.72%     293MB / 395MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   342.31%   115.2MiB / 15.51GiB   0.73%     296MB / 399MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   337.16%   115.5MiB / 15.51GiB   0.73%     298MB / 402MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   338.41%   115.3MiB / 15.51GiB   0.73%     301MB / 406MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   339.55%   115.3MiB / 15.51GiB   0.73%     304MB / 410MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   340.46%   115.4MiB / 15.51GiB   0.73%     307MB / 413MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   330.52%   115.3MiB / 15.51GiB   0.73%     309MB / 417MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   337.38%   115.4MiB / 15.51GiB   0.73%     312MB / 421MB   35.9MB / 0B   39
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   329.14%   115.3MiB / 15.51GiB   0.73%     315MB / 424MB   35.9MB / 0B   40
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+324ede33795c   petstore-monolith   310.56%   115.3MiB / 15.51GiB   0.73%     317MB / 428MB   35.9MB / 0B   40
