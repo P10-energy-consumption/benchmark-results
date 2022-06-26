@@ -1,0 +1,1330 @@
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     0.02%     23.32MiB / 15.51GiB   0.15%     988B / 0B         1.31MB / 0B   20
+1ba03914190e   petstore-gateway   26.80%    30.26MiB / 15.51GiB   0.19%     9.31kB / 1.84kB   2.99MB / 0B   30
+16f2a85f42a5   petstore-user      0.02%     25.46MiB / 15.51GiB   0.16%     988B / 0B         16MB / 0B     20
+d00160f26308   petstore-pet       0.01%     24.45MiB / 15.51GiB   0.15%     946B / 0B         8.56MB / 0B   20
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.26%    30.84MiB / 15.51GiB   0.19%     51.7kB / 14kB   1.98MB / 0B   29
+1ba03914190e   petstore-gateway   87.35%    54.84MiB / 15.51GiB   0.35%     219kB / 234kB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      55.90%    106MiB / 15.51GiB     0.67%     354kB / 294kB   26.5MB / 0B   31
+d00160f26308   petstore-pet       225.72%   108.9MiB / 15.51GiB   0.69%     386kB / 311kB   11.3MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.35%    116.9MiB / 15.51GiB   0.74%     432kB / 367kB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   39.24%    64.53MiB / 15.51GiB   0.41%     365kB / 379kB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      0.02%     106MiB / 15.51GiB     0.67%     354kB / 294kB   26.5MB / 0B   31
+d00160f26308   petstore-pet       44.62%    112.9MiB / 15.51GiB   0.71%     477kB / 432kB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     53.95%    120.5MiB / 15.51GiB   0.76%     500kB / 447kB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   55.18%    74.69MiB / 15.51GiB   0.47%     932kB / 941kB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      36.54%    109MiB / 15.51GiB     0.69%     399kB / 349kB   26.5MB / 0B   31
+d00160f26308   petstore-pet       67.20%    120MiB / 15.51GiB     0.76%     854kB / 969kB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.60%    122.2MiB / 15.51GiB   0.77%     579kB / 538kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   88.92%    74.28MiB / 15.51GiB   0.47%     1.41MB / 1.41MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.25%    111MiB / 15.51GiB     0.70%     449kB / 409kB     26.5MB / 0B   32
+d00160f26308   petstore-pet       52.96%    124MiB / 15.51GiB     0.78%     1.15MB / 1.38MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.82%    122.9MiB / 15.51GiB   0.77%     646kB / 616kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   94.85%    76.57MiB / 15.51GiB   0.48%     1.99MB / 1.99MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      11.85%    111.8MiB / 15.51GiB   0.70%     487kB / 455kB     26.5MB / 0B   32
+d00160f26308   petstore-pet       70.64%    128.5MiB / 15.51GiB   0.81%     1.54MB / 1.93MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.90%    124.2MiB / 15.51GiB   0.78%     725kB / 707kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   92.44%    84.83MiB / 15.51GiB   0.53%     2.5MB / 2.49MB    3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.52%    112.6MiB / 15.51GiB   0.71%     539kB / 518kB     26.5MB / 0B   32
+d00160f26308   petstore-pet       56.06%    132.3MiB / 15.51GiB   0.83%     1.86MB / 2.39MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.38%    125.4MiB / 15.51GiB   0.79%     793kB / 787kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   89.41%    95.61MiB / 15.51GiB   0.60%     3.06MB / 3.05MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.58%    113.2MiB / 15.51GiB   0.71%     580kB / 568kB     26.5MB / 0B   33
+d00160f26308   petstore-pet       65.25%    136.3MiB / 15.51GiB   0.86%     2.24MB / 2.92MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     27.33%    126.6MiB / 15.51GiB   0.80%     868kB / 875kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   87.29%    105.2MiB / 15.51GiB   0.66%     3.59MB / 3.57MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.68%    114.3MiB / 15.51GiB   0.72%     628kB / 626kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       58.49%    140.1MiB / 15.51GiB   0.88%     2.57MB / 3.39MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.62%    127.7MiB / 15.51GiB   0.80%     933kB / 951kB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   92.32%    114.7MiB / 15.51GiB   0.72%     4.12MB / 4.1MB    3.21MB / 0B   39
+16f2a85f42a5   petstore-user      15.26%    115.1MiB / 15.51GiB   0.72%     671kB / 679kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       60.98%    144.4MiB / 15.51GiB   0.91%     2.92MB / 3.87MB   11.4MB / 0B   38
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     27.03%    129MiB / 15.51GiB     0.81%     1.01MB / 1.04MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   86.69%    124.2MiB / 15.51GiB   0.78%     4.65MB / 4.63MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      15.00%    116MiB / 15.51GiB     0.73%     716kB / 734kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       55.68%    148.1MiB / 15.51GiB   0.93%     3.26MB / 4.35MB   11.4MB / 0B   38
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     21.59%    130MiB / 15.51GiB     0.82%     1.07MB / 1.12MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   78.84%    135MiB / 15.51GiB     0.85%     5.18MB / 5.15MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      16.23%    116.8MiB / 15.51GiB   0.74%     762kB / 790kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       51.72%    152.3MiB / 15.51GiB   0.96%     3.61MB / 4.84MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.12%    131.4MiB / 15.51GiB   0.83%     1.15MB / 1.21MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   92.24%    145MiB / 15.51GiB     0.91%     5.71MB / 5.68MB   3.21MB / 0B   36
+16f2a85f42a5   petstore-user      13.37%    117.6MiB / 15.51GiB   0.74%     805kB / 843kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       62.54%    156.1MiB / 15.51GiB   0.98%     3.95MB / 5.33MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.53%    132.5MiB / 15.51GiB   0.83%     1.22MB / 1.29MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   90.51%    155.1MiB / 15.51GiB   0.98%     6.23MB / 6.19MB   3.21MB / 0B   36
+16f2a85f42a5   petstore-user      15.55%    118.6MiB / 15.51GiB   0.75%     855kB / 903kB     26.5MB / 0B   38
+d00160f26308   petstore-pet       58.02%    160MiB / 15.51GiB     1.01%     4.3MB / 5.81MB    11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.10%    133.8MiB / 15.51GiB   0.84%     1.29MB / 1.37MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   88.89%    166.1MiB / 15.51GiB   1.05%     6.81MB / 6.76MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      13.62%    119.2MiB / 15.51GiB   0.75%     899kB / 956kB     26.5MB / 0B   37
+d00160f26308   petstore-pet       64.14%    164.3MiB / 15.51GiB   1.03%     4.68MB / 6.35MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     29.53%    134.9MiB / 15.51GiB   0.85%     1.37MB / 1.46MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   90.88%    176.4MiB / 15.51GiB   1.11%     7.31MB / 7.26MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      14.97%    120MiB / 15.51GiB     0.76%     945kB / 1.01MB    26.5MB / 0B   37
+d00160f26308   petstore-pet       58.49%    168.2MiB / 15.51GiB   1.06%     5.01MB / 6.81MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.94%    136.1MiB / 15.51GiB   0.86%     1.44MB / 1.54MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   95.92%    187.3MiB / 15.51GiB   1.18%     7.91MB / 7.85MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      15.35%    120.9MiB / 15.51GiB   0.76%     993kB / 1.07MB    26.5MB / 0B   37
+d00160f26308   petstore-pet       64.37%    172.4MiB / 15.51GiB   1.09%     5.38MB / 7.34MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     27.62%    137.3MiB / 15.51GiB   0.86%     1.52MB / 1.63MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   90.36%    197.7MiB / 15.51GiB   1.24%     8.44MB / 8.38MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      15.85%    121.8MiB / 15.51GiB   0.77%     1.04MB / 1.13MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       56.47%    176.2MiB / 15.51GiB   1.11%     5.72MB / 7.82MB   11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.33%    138.5MiB / 15.51GiB   0.87%     1.59MB / 1.71MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   84.86%    208MiB / 15.51GiB     1.31%     8.96MB / 8.9MB    3.21MB / 0B   38
+16f2a85f42a5   petstore-user      15.54%    122.3MiB / 15.51GiB   0.77%     1.08MB / 1.18MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       61.29%    180.3MiB / 15.51GiB   1.13%     6.07MB / 8.3MB    11.4MB / 0B   38
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     20.32%    139.7MiB / 15.51GiB   0.88%     1.66MB / 1.79MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   74.64%    218.4MiB / 15.51GiB   1.37%     9.49MB / 9.42MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      11.94%    123.2MiB / 15.51GiB   0.78%     1.13MB / 1.24MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       55.17%    184.1MiB / 15.51GiB   1.16%     6.41MB / 8.79MB   11.4MB / 0B   38
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     19.33%    140.9MiB / 15.51GiB   0.89%     1.73MB / 1.87MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   70.08%    229.1MiB / 15.51GiB   1.44%     10MB / 9.97MB     3.21MB / 0B   38
+16f2a85f42a5   petstore-user      10.06%    123.9MiB / 15.51GiB   0.78%     1.17MB / 1.29MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       52.71%    188.5MiB / 15.51GiB   1.19%     6.78MB / 9.3MB    11.4MB / 0B   37
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.41%    142.5MiB / 15.51GiB   0.90%     1.8MB / 1.96MB    4.01MB / 0B   34
+1ba03914190e   petstore-gateway   86.35%    237.9MiB / 15.51GiB   1.50%     10.6MB / 10.5MB   3.21MB / 0B   38
+16f2a85f42a5   petstore-user      13.16%    124.7MiB / 15.51GiB   0.79%     1.22MB / 1.35MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       56.81%    192.2MiB / 15.51GiB   1.21%     7.12MB / 9.79MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.13%    143.6MiB / 15.51GiB   0.90%     1.87MB / 2.04MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   81.55%    237.8MiB / 15.51GiB   1.50%     11.1MB / 11MB     3.21MB / 0B   38
+16f2a85f42a5   petstore-user      13.35%    125.5MiB / 15.51GiB   0.79%     1.26MB / 1.4MB    26.5MB / 0B   31
+d00160f26308   petstore-pet       60.84%    196.3MiB / 15.51GiB   1.24%     7.46MB / 10.3MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     20.47%    144.8MiB / 15.51GiB   0.91%     1.94MB / 2.12MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   70.38%    237.7MiB / 15.51GiB   1.50%     11.7MB / 11.6MB   3.21MB / 0B   37
+16f2a85f42a5   petstore-user      11.77%    126.2MiB / 15.51GiB   0.79%     1.31MB / 1.46MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       55.65%    200.2MiB / 15.51GiB   1.26%     7.83MB / 10.8MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.04%    146.5MiB / 15.51GiB   0.92%     2.02MB / 2.21MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   76.19%    237.9MiB / 15.51GiB   1.50%     12.2MB / 12.1MB   3.21MB / 0B   36
+16f2a85f42a5   petstore-user      14.40%    127.1MiB / 15.51GiB   0.80%     1.36MB / 1.51MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       54.88%    204MiB / 15.51GiB     1.28%     8.16MB / 11.2MB   11.4MB / 0B   35
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.98%    147.4MiB / 15.51GiB   0.93%     2.09MB / 2.29MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   83.11%    237.8MiB / 15.51GiB   1.50%     12.7MB / 12.6MB   3.21MB / 0B   35
+16f2a85f42a5   petstore-user      14.26%    127.9MiB / 15.51GiB   0.81%     1.4MB / 1.57MB    26.5MB / 0B   29
+d00160f26308   petstore-pet       65.70%    208.2MiB / 15.51GiB   1.31%     8.53MB / 11.8MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.49%    148.6MiB / 15.51GiB   0.94%     2.16MB / 2.37MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   69.74%    237.8MiB / 15.51GiB   1.50%     13.3MB / 13.2MB   3.21MB / 0B   35
+16f2a85f42a5   petstore-user      11.72%    128.8MiB / 15.51GiB   0.81%     1.45MB / 1.62MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       52.12%    212.1MiB / 15.51GiB   1.34%     8.87MB / 12.3MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     21.17%    149.8MiB / 15.51GiB   0.94%     2.23MB / 2.45MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   75.81%    237.6MiB / 15.51GiB   1.50%     13.8MB / 13.7MB   3.21MB / 0B   34
+16f2a85f42a5   petstore-user      10.91%    129.5MiB / 15.51GiB   0.82%     1.49MB / 1.68MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       59.68%    216.3MiB / 15.51GiB   1.36%     9.23MB / 12.8MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.47%    151.1MiB / 15.51GiB   0.95%     2.31MB / 2.54MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   77.26%    237.6MiB / 15.51GiB   1.50%     14.4MB / 14.3MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      11.37%    130.4MiB / 15.51GiB   0.82%     1.54MB / 1.73MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       58.45%    220.2MiB / 15.51GiB   1.39%     9.59MB / 13.3MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.95%    152.2MiB / 15.51GiB   0.96%     2.38MB / 2.62MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   83.27%    237.6MiB / 15.51GiB   1.50%     14.9MB / 14.8MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      14.09%    131.2MiB / 15.51GiB   0.83%     1.59MB / 1.79MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       59.84%    224MiB / 15.51GiB     1.41%     9.93MB / 13.7MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.50%    153.3MiB / 15.51GiB   0.97%     2.45MB / 2.7MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   83.58%    237.8MiB / 15.51GiB   1.50%     15.5MB / 15.3MB   3.21MB / 0B   34
+16f2a85f42a5   petstore-user      12.65%    132MiB / 15.51GiB     0.83%     1.63MB / 1.84MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       62.83%    228.3MiB / 15.51GiB   1.44%     10.3MB / 14.3MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.92%    154.6MiB / 15.51GiB   0.97%     2.52MB / 2.78MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   79.20%    237.8MiB / 15.51GiB   1.50%     16MB / 15.8MB     3.21MB / 0B   34
+16f2a85f42a5   petstore-user      13.87%    132.8MiB / 15.51GiB   0.84%     1.68MB / 1.9MB    26.5MB / 0B   31
+d00160f26308   petstore-pet       54.75%    232.1MiB / 15.51GiB   1.46%     10.6MB / 14.7MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.58%    155.8MiB / 15.51GiB   0.98%     2.59MB / 2.86MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   85.38%    229.3MiB / 15.51GiB   1.44%     16.5MB / 16.4MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      12.12%    133.7MiB / 15.51GiB   0.84%     1.72MB / 1.95MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       63.53%    236.1MiB / 15.51GiB   1.49%     11MB / 15.2MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.20%    157MiB / 15.51GiB     0.99%     2.66MB / 2.95MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   68.87%    229.2MiB / 15.51GiB   1.44%     17.1MB / 16.9MB   3.21MB / 0B   32
+16f2a85f42a5   petstore-user      10.20%    134.5MiB / 15.51GiB   0.85%     1.77MB / 2.01MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       49.24%    239.9MiB / 15.51GiB   1.51%     11.3MB / 15.7MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.30%    158.2MiB / 15.51GiB   1.00%     2.73MB / 3.03MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   77.03%    229.4MiB / 15.51GiB   1.44%     17.6MB / 17.4MB   3.21MB / 0B   32
+16f2a85f42a5   petstore-user      13.77%    135.3MiB / 15.51GiB   0.85%     1.81MB / 2.06MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       56.36%    244MiB / 15.51GiB     1.54%     11.7MB / 16.2MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.48%    159.4MiB / 15.51GiB   1.00%     2.8MB / 3.11MB    4.01MB / 0B   31
+1ba03914190e   petstore-gateway   79.34%    229.2MiB / 15.51GiB   1.44%     18.2MB / 18MB     3.21MB / 0B   33
+16f2a85f42a5   petstore-user      12.23%    136.1MiB / 15.51GiB   0.86%     1.86MB / 2.12MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       60.66%    248MiB / 15.51GiB     1.56%     12MB / 16.7MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.53%    160.5MiB / 15.51GiB   1.01%     2.88MB / 3.19MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   81.04%    229.2MiB / 15.51GiB   1.44%     18.7MB / 18.5MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      14.39%    137MiB / 15.51GiB     0.86%     1.91MB / 2.18MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       58.29%    251.8MiB / 15.51GiB   1.59%     12.4MB / 17.2MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.21%    162.5MiB / 15.51GiB   1.02%     2.96MB / 3.28MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   85.43%    227.5MiB / 15.51GiB   1.43%     19.3MB / 19.1MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      30.71%    138.9MiB / 15.51GiB   0.87%     1.96MB / 2.24MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       72.84%    256.9MiB / 15.51GiB   1.62%     12.8MB / 17.7MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.93%    163.9MiB / 15.51GiB   1.03%     3.03MB / 3.37MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   81.91%    227.5MiB / 15.51GiB   1.43%     19.8MB / 19.6MB   3.21MB / 0B   33
+16f2a85f42a5   petstore-user      12.99%    139.8MiB / 15.51GiB   0.88%     2.01MB / 2.3MB    26.5MB / 0B   39
+d00160f26308   petstore-pet       60.09%    260.9MiB / 15.51GiB   1.64%     13.1MB / 18.2MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     15.91%    165MiB / 15.51GiB     1.04%     3.1MB / 3.45MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   47.83%    227.6MiB / 15.51GiB   1.43%     20.3MB / 20.1MB   3.21MB / 0B   32
+16f2a85f42a5   petstore-user      6.31%     140.6MiB / 15.51GiB   0.89%     2.06MB / 2.35MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       32.81%    264.6MiB / 15.51GiB   1.67%     13.4MB / 18.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.54%    166.2MiB / 15.51GiB   1.05%     3.18MB / 3.53MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   82.66%    227.4MiB / 15.51GiB   1.43%     20.9MB / 20.7MB   3.21MB / 0B   31
+16f2a85f42a5   petstore-user      10.53%    141.4MiB / 15.51GiB   0.89%     2.1MB / 2.41MB    26.5MB / 0B   38
+d00160f26308   petstore-pet       64.29%    269MiB / 15.51GiB     1.69%     13.8MB / 19.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.18%    167.5MiB / 15.51GiB   1.05%     3.25MB / 3.61MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   83.19%    227.4MiB / 15.51GiB   1.43%     21.4MB / 21.2MB   3.21MB / 0B   31
+16f2a85f42a5   petstore-user      12.81%    142.3MiB / 15.51GiB   0.90%     2.15MB / 2.46MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       63.87%    273MiB / 15.51GiB     1.72%     14.2MB / 19.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.24%    168.6MiB / 15.51GiB   1.06%     3.32MB / 3.7MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   75.55%    212.4MiB / 15.51GiB   1.34%     22MB / 21.7MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      12.97%    143.2MiB / 15.51GiB   0.90%     2.2MB / 2.52MB    26.5MB / 0B   38
+d00160f26308   petstore-pet       57.15%    276.8MiB / 15.51GiB   1.74%     14.5MB / 20.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.02%    169.9MiB / 15.51GiB   1.07%     3.39MB / 3.78MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   76.10%    212.4MiB / 15.51GiB   1.34%     22.5MB / 22.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      12.58%    143.9MiB / 15.51GiB   0.91%     2.24MB / 2.57MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       54.45%    280.8MiB / 15.51GiB   1.77%     14.9MB / 20.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.04%    171.1MiB / 15.51GiB   1.08%     3.46MB / 3.86MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   81.89%    212.2MiB / 15.51GiB   1.34%     23MB / 22.8MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      11.65%    144.7MiB / 15.51GiB   0.91%     2.28MB / 2.63MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       63.50%    284.9MiB / 15.51GiB   1.79%     15.2MB / 21.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.81%    172.2MiB / 15.51GiB   1.08%     3.54MB / 3.95MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   78.61%    212.3MiB / 15.51GiB   1.34%     23.6MB / 23.3MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      11.76%    145.5MiB / 15.51GiB   0.92%     2.33MB / 2.68MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       55.95%    288.8MiB / 15.51GiB   1.82%     15.6MB / 21.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     25.08%    173.5MiB / 15.51GiB   1.09%     3.61MB / 4.03MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   83.75%    212.3MiB / 15.51GiB   1.34%     24.1MB / 23.8MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.12%    146.4MiB / 15.51GiB   0.92%     2.38MB / 2.74MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       64.03%    292.9MiB / 15.51GiB   1.84%     15.9MB / 22.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.63%    174.6MiB / 15.51GiB   1.10%     3.68MB / 4.11MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   77.39%    212.4MiB / 15.51GiB   1.34%     24.6MB / 24.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.37%    146.9MiB / 15.51GiB   0.92%     2.43MB / 2.79MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       60.02%    296.6MiB / 15.51GiB   1.87%     16.3MB / 22.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.44%    175.8MiB / 15.51GiB   1.11%     3.75MB / 4.19MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   79.87%    212.3MiB / 15.51GiB   1.34%     25.2MB / 24.9MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.36%    147.7MiB / 15.51GiB   0.93%     2.47MB / 2.85MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       61.55%    300.6MiB / 15.51GiB   1.89%     16.6MB / 23.1MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.99%    177MiB / 15.51GiB     1.11%     3.82MB / 4.27MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   77.66%    185.7MiB / 15.51GiB   1.17%     25.7MB / 25.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.76%    148.6MiB / 15.51GiB   0.94%     2.52MB / 2.9MB    26.5MB / 0B   31
+d00160f26308   petstore-pet       60.74%    304.7MiB / 15.51GiB   1.92%     17MB / 23.6MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     22.30%    178.1MiB / 15.51GiB   1.12%     3.89MB / 4.35MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   75.56%    185.7MiB / 15.51GiB   1.17%     26.3MB / 26MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      14.76%    149.3MiB / 15.51GiB   0.94%     2.56MB / 2.96MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       60.35%    308.8MiB / 15.51GiB   1.94%     17.3MB / 24.1MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.70%    179.4MiB / 15.51GiB   1.13%     3.96MB / 4.44MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   79.44%    185.7MiB / 15.51GiB   1.17%     26.8MB / 26.5MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.70%    150.1MiB / 15.51GiB   0.95%     2.61MB / 3.02MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       62.25%    312.8MiB / 15.51GiB   1.97%     17.7MB / 24.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.98%    180.6MiB / 15.51GiB   1.14%     4.03MB / 4.52MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   77.34%    165.4MiB / 15.51GiB   1.04%     27.3MB / 27MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      11.73%    150.9MiB / 15.51GiB   0.95%     2.66MB / 3.07MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       58.08%    316.8MiB / 15.51GiB   1.99%     18MB / 25.1MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.57%    181.7MiB / 15.51GiB   1.14%     4.1MB / 4.6MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   81.81%    165.3MiB / 15.51GiB   1.04%     27.9MB / 27.6MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      11.67%    151.7MiB / 15.51GiB   0.95%     2.7MB / 3.12MB    26.5MB / 0B   29
+d00160f26308   petstore-pet       63.58%    320.8MiB / 15.51GiB   2.02%     18.4MB / 25.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.66%    182.9MiB / 15.51GiB   1.15%     4.17MB / 4.69MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   82.72%    165.4MiB / 15.51GiB   1.04%     28.4MB / 28.1MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.71%    152.5MiB / 15.51GiB   0.96%     2.75MB / 3.18MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       66.14%    325MiB / 15.51GiB     2.05%     18.7MB / 26.1MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.88%    184.3MiB / 15.51GiB   1.16%     4.25MB / 4.77MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   79.22%    165.4MiB / 15.51GiB   1.04%     29MB / 28.6MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.20%    153.4MiB / 15.51GiB   0.97%     2.8MB / 3.24MB    26.5MB / 0B   29
+d00160f26308   petstore-pet       58.57%    328.8MiB / 15.51GiB   2.07%     19.1MB / 26.6MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.88%    185.4MiB / 15.51GiB   1.17%     4.32MB / 4.85MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   75.24%    151.9MiB / 15.51GiB   0.96%     29.5MB / 29.2MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.07%    154.2MiB / 15.51GiB   0.97%     2.84MB / 3.29MB   26.5MB / 0B   29
+d00160f26308   petstore-pet       54.44%    333MiB / 15.51GiB     2.10%     19.4MB / 27.1MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     21.34%    186.5MiB / 15.51GiB   1.17%     4.39MB / 4.93MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   80.47%    151.8MiB / 15.51GiB   0.96%     30.1MB / 29.7MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.95%    155.1MiB / 15.51GiB   0.98%     2.89MB / 3.35MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       64.87%    337.2MiB / 15.51GiB   2.12%     19.8MB / 27.6MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     26.71%    187.9MiB / 15.51GiB   1.18%     4.47MB / 5.02MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   81.18%    151.8MiB / 15.51GiB   0.96%     30.6MB / 30.2MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      12.53%    156MiB / 15.51GiB     0.98%     2.94MB / 3.41MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       57.69%    341MiB / 15.51GiB     2.15%     20.1MB / 28.1MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     24.46%    189.1MiB / 15.51GiB   1.19%     4.53MB / 5.1MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   83.16%    143.1MiB / 15.51GiB   0.90%     31.1MB / 30.8MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      11.72%    156.7MiB / 15.51GiB   0.99%     2.98MB / 3.46MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       62.80%    345.3MiB / 15.51GiB   2.17%     20.5MB / 28.6MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     23.15%    190.3MiB / 15.51GiB   1.20%     4.61MB / 5.19MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   73.81%    142.9MiB / 15.51GiB   0.90%     31.7MB / 31.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      12.54%    157.7MiB / 15.51GiB   0.99%     3.03MB / 3.52MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       55.75%    349.2MiB / 15.51GiB   2.20%     20.8MB / 29.1MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.41%    192.1MiB / 15.51GiB   1.21%     4.71MB / 5.31MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   112.01%   143MiB / 15.51GiB     0.90%     32.6MB / 32.2MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      13.64%    158.7MiB / 15.51GiB   1.00%     3.09MB / 3.59MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       86.54%    341.9MiB / 15.51GiB   2.15%     21.5MB / 30MB     11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.16%    194.4MiB / 15.51GiB   1.22%     4.85MB / 5.47MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   113.43%   138.1MiB / 15.51GiB   0.87%     33.6MB / 33.2MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.91%    160.3MiB / 15.51GiB   1.01%     3.18MB / 3.7MB    26.5MB / 0B   31
+d00160f26308   petstore-pet       85.07%    342.1MiB / 15.51GiB   2.15%     22.1MB / 30.9MB   11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.70%    196.9MiB / 15.51GiB   1.24%     4.99MB / 5.64MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   110.80%   134.8MiB / 15.51GiB   0.85%     34.7MB / 34.3MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      16.55%    162.1MiB / 15.51GiB   1.02%     3.27MB / 3.81MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       83.90%    341.9MiB / 15.51GiB   2.15%     22.9MB / 32MB     11.4MB / 0B   34
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.98%    199.6MiB / 15.51GiB   1.26%     5.14MB / 5.8MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   102.84%   134.8MiB / 15.51GiB   0.85%     35.8MB / 35.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.30%    163.7MiB / 15.51GiB   1.03%     3.36MB / 3.92MB   26.5MB / 0B   31
+d00160f26308   petstore-pet       72.90%    341.9MiB / 15.51GiB   2.15%     23.5MB / 32.9MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.33%    201.7MiB / 15.51GiB   1.27%     5.28MB / 5.97MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   114.75%   130.9MiB / 15.51GiB   0.82%     36.8MB / 36.4MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.93%    166.1MiB / 15.51GiB   1.05%     3.45MB / 4.03MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       83.81%    342MiB / 15.51GiB     2.15%     24.3MB / 33.9MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.57%    204.2MiB / 15.51GiB   1.29%     5.42MB / 6.13MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   105.97%   130.9MiB / 15.51GiB   0.82%     38MB / 37.5MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.14%    167.9MiB / 15.51GiB   1.06%     3.54MB / 4.15MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       81.10%    341.9MiB / 15.51GiB   2.15%     25MB / 34.9MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.52%    206.5MiB / 15.51GiB   1.30%     5.56MB / 6.29MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.31%   127.3MiB / 15.51GiB   0.80%     39MB / 38.5MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.31%    169.4MiB / 15.51GiB   1.07%     3.63MB / 4.26MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       73.63%    342MiB / 15.51GiB     2.15%     25.6MB / 35.8MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     29.28%    208.9MiB / 15.51GiB   1.32%     5.7MB / 6.46MB    4.01MB / 0B   31
+1ba03914190e   petstore-gateway   101.74%   125MiB / 15.51GiB     0.79%     40.1MB / 39.6MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      15.56%    171MiB / 15.51GiB     1.08%     3.72MB / 4.36MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       72.03%    341.8MiB / 15.51GiB   2.15%     26.4MB / 36.9MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.97%    211.4MiB / 15.51GiB   1.33%     5.84MB / 6.63MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   110.17%   124.7MiB / 15.51GiB   0.78%     41.1MB / 40.6MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.45%    172.8MiB / 15.51GiB   1.09%     3.82MB / 4.48MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       81.13%    341.9MiB / 15.51GiB   2.15%     27MB / 37.8MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.38%    213.8MiB / 15.51GiB   1.35%     5.99MB / 6.79MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.97%   123.1MiB / 15.51GiB   0.77%     42.3MB / 41.7MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.41%    174.2MiB / 15.51GiB   1.10%     3.9MB / 4.58MB    26.5MB / 0B   34
+d00160f26308   petstore-pet       87.49%    342MiB / 15.51GiB     2.15%     27.8MB / 38.9MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.07%    216.2MiB / 15.51GiB   1.36%     6.13MB / 6.96MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.95%   123MiB / 15.51GiB     0.77%     43.3MB / 42.8MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.60%    176.1MiB / 15.51GiB   1.11%     4MB / 4.71MB      26.5MB / 0B   34
+d00160f26308   petstore-pet       75.51%    341.9MiB / 15.51GiB   2.15%     28.5MB / 39.8MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.72%    218.6MiB / 15.51GiB   1.38%     6.27MB / 7.12MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   112.22%   121.8MiB / 15.51GiB   0.77%     44.4MB / 43.8MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      18.48%    177.5MiB / 15.51GiB   1.12%     4.08MB / 4.81MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       78.22%    341.9MiB / 15.51GiB   2.15%     29.2MB / 40.8MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.86%    221MiB / 15.51GiB     1.39%     6.41MB / 7.29MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   103.97%   121MiB / 15.51GiB     0.76%     45.4MB / 44.9MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.32%    179.3MiB / 15.51GiB   1.13%     4.18MB / 4.92MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       71.74%    341.9MiB / 15.51GiB   2.15%     29.8MB / 41.8MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.51%    223.3MiB / 15.51GiB   1.41%     6.55MB / 7.45MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   99.79%    121.3MiB / 15.51GiB   0.76%     46.5MB / 45.9MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.64%    180.8MiB / 15.51GiB   1.14%     4.27MB / 5.03MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       70.32%    342MiB / 15.51GiB     2.15%     30.5MB / 42.8MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.15%    225.8MiB / 15.51GiB   1.42%     6.69MB / 7.61MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   105.51%   120.7MiB / 15.51GiB   0.76%     47.6MB / 47MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.59%    182.4MiB / 15.51GiB   1.15%     4.36MB / 5.14MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       71.60%    341.9MiB / 15.51GiB   2.15%     31.2MB / 43.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.94%    228.1MiB / 15.51GiB   1.44%     6.83MB / 7.78MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   111.92%   120.7MiB / 15.51GiB   0.76%     48.6MB / 48MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.70%    184MiB / 15.51GiB     1.16%     4.44MB / 5.25MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       73.87%    341.9MiB / 15.51GiB   2.15%     31.9MB / 44.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.40%    230.5MiB / 15.51GiB   1.45%     6.97MB / 7.94MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   115.15%   120.4MiB / 15.51GiB   0.76%     49.7MB / 49.1MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.72%    185.9MiB / 15.51GiB   1.17%     4.54MB / 5.36MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       82.68%    341.9MiB / 15.51GiB   2.15%     32.6MB / 45.7MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.33%    233MiB / 15.51GiB     1.47%     7.12MB / 8.11MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   104.30%   120.1MiB / 15.51GiB   0.76%     50.8MB / 50.2MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.40%    187.3MiB / 15.51GiB   1.18%     4.63MB / 5.47MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       66.54%    342.1MiB / 15.51GiB   2.15%     33.3MB / 46.7MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.47%    235.3MiB / 15.51GiB   1.48%     7.26MB / 8.27MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   109.57%   120.1MiB / 15.51GiB   0.76%     51.9MB / 51.2MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.85%    188.8MiB / 15.51GiB   1.19%     4.72MB / 5.58MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       76.69%    342.2MiB / 15.51GiB   2.15%     34MB / 47.7MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.36%    237.9MiB / 15.51GiB   1.50%     7.4MB / 8.43MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.50%   120MiB / 15.51GiB     0.76%     52.9MB / 52.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.57%    190.6MiB / 15.51GiB   1.20%     4.81MB / 5.69MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       80.21%    342.1MiB / 15.51GiB   2.15%     34.7MB / 48.6MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.37%    240.1MiB / 15.51GiB   1.51%     7.54MB / 8.6MB    4.01MB / 0B   33
+1ba03914190e   petstore-gateway   121.45%   119.9MiB / 15.51GiB   0.76%     54MB / 53.3MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.52%    192.2MiB / 15.51GiB   1.21%     4.9MB / 5.8MB     26.5MB / 0B   33
+d00160f26308   petstore-pet       84.79%    341.9MiB / 15.51GiB   2.15%     35.4MB / 49.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     30.38%    242.5MiB / 15.51GiB   1.53%     7.68MB / 8.76MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   104.88%   120.1MiB / 15.51GiB   0.76%     55.1MB / 54.4MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.32%    193.8MiB / 15.51GiB   1.22%     4.99MB / 5.91MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       74.39%    341.9MiB / 15.51GiB   2.15%     36.1MB / 50.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.63%    245MiB / 15.51GiB     1.54%     7.82MB / 8.93MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   100.64%   120.1MiB / 15.51GiB   0.76%     56.2MB / 55.4MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      16.11%    195.4MiB / 15.51GiB   1.23%     5.08MB / 6.02MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       68.47%    341.8MiB / 15.51GiB   2.15%     36.8MB / 51.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.19%    247.2MiB / 15.51GiB   1.56%     7.96MB / 9.09MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   111.75%   120MiB / 15.51GiB     0.76%     57.2MB / 56.5MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.21%    197.1MiB / 15.51GiB   1.24%     5.17MB / 6.13MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       78.28%    318.4MiB / 15.51GiB   2.00%     37.5MB / 52.6MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.55%    249.6MiB / 15.51GiB   1.57%     8.11MB / 9.25MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.18%   120MiB / 15.51GiB     0.76%     58.3MB / 57.6MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.44%    198.7MiB / 15.51GiB   1.25%     5.26MB / 6.24MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       83.87%    318.5MiB / 15.51GiB   2.00%     38.2MB / 53.6MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.54%    252.1MiB / 15.51GiB   1.59%     8.25MB / 9.42MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.27%   120.1MiB / 15.51GiB   0.76%     59.4MB / 58.6MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      22.66%    200.4MiB / 15.51GiB   1.26%     5.36MB / 6.36MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       77.62%    318.4MiB / 15.51GiB   2.00%     38.9MB / 54.5MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.06%    254.5MiB / 15.51GiB   1.60%     8.39MB / 9.59MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.39%   120MiB / 15.51GiB     0.76%     60.5MB / 59.7MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.64%    202MiB / 15.51GiB     1.27%     5.45MB / 6.47MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       78.56%    318.4MiB / 15.51GiB   2.00%     39.6MB / 55.6MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.04%    256.8MiB / 15.51GiB   1.62%     8.54MB / 9.75MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   114.96%   120.1MiB / 15.51GiB   0.76%     61.5MB / 60.7MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.51%    203.7MiB / 15.51GiB   1.28%     5.54MB / 6.58MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       77.34%    318.3MiB / 15.51GiB   2.00%     40.3MB / 56.5MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.52%    259.2MiB / 15.51GiB   1.63%     8.67MB / 9.91MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.42%   120MiB / 15.51GiB     0.76%     62.7MB / 61.8MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      14.96%    205.1MiB / 15.51GiB   1.29%     5.62MB / 6.68MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       85.95%    318.4MiB / 15.51GiB   2.00%     41MB / 57.5MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.97%    261.6MiB / 15.51GiB   1.65%     8.82MB / 10.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   101.06%   119.9MiB / 15.51GiB   0.75%     63.7MB / 62.8MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.79%    206.9MiB / 15.51GiB   1.30%     5.72MB / 6.8MB    26.5MB / 0B   33
+d00160f26308   petstore-pet       66.34%    318.3MiB / 15.51GiB   2.00%     41.7MB / 58.5MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.21%    264MiB / 15.51GiB     1.66%     8.95MB / 10.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   108.23%   120MiB / 15.51GiB     0.76%     64.7MB / 63.9MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.31%    208.4MiB / 15.51GiB   1.31%     5.8MB / 6.9MB     26.5MB / 0B   33
+d00160f26308   petstore-pet       77.20%    318.4MiB / 15.51GiB   2.00%     42.4MB / 59.5MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     30.46%    266.4MiB / 15.51GiB   1.68%     9.1MB / 10.4MB    4.01MB / 0B   32
+1ba03914190e   petstore-gateway   100.82%   119.9MiB / 15.51GiB   0.75%     65.8MB / 65MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      18.18%    210.1MiB / 15.51GiB   1.32%     5.89MB / 7.02MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       74.04%    318.3MiB / 15.51GiB   2.00%     43.1MB / 60.5MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.77%    268.6MiB / 15.51GiB   1.69%     9.24MB / 10.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   110.75%   120.1MiB / 15.51GiB   0.76%     66.9MB / 66MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.90%    211.7MiB / 15.51GiB   1.33%     5.99MB / 7.13MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       76.85%    318.4MiB / 15.51GiB   2.00%     43.8MB / 61.4MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.97%    271.1MiB / 15.51GiB   1.71%     9.38MB / 10.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   117.46%   120MiB / 15.51GiB     0.76%     68MB / 67.1MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.73%    213.2MiB / 15.51GiB   1.34%     6.07MB / 7.23MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       87.34%    318.4MiB / 15.51GiB   2.00%     44.5MB / 62.5MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.73%    273.6MiB / 15.51GiB   1.72%     9.53MB / 10.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   97.30%    120.1MiB / 15.51GiB   0.76%     69MB / 68.1MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.97%    215.1MiB / 15.51GiB   1.35%     6.17MB / 7.35MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       65.35%    318.4MiB / 15.51GiB   2.00%     45.1MB / 63.4MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.83%    275.9MiB / 15.51GiB   1.74%     9.66MB / 11.1MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   105.20%   120.3MiB / 15.51GiB   0.76%     70.1MB / 69.2MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.66%    216.6MiB / 15.51GiB   1.36%     6.26MB / 7.46MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       76.09%    318.6MiB / 15.51GiB   2.01%     45.9MB / 64.4MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.82%    278.4MiB / 15.51GiB   1.75%     9.81MB / 11.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   107.35%   120.4MiB / 15.51GiB   0.76%     71.2MB / 70.2MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.10%    218.2MiB / 15.51GiB   1.37%     6.35MB / 7.57MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       70.37%    318.5MiB / 15.51GiB   2.01%     46.5MB / 65.3MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.04%    280.7MiB / 15.51GiB   1.77%     9.95MB / 11.4MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   103.25%   120.3MiB / 15.51GiB   0.76%     72.3MB / 71.3MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.11%    219.8MiB / 15.51GiB   1.38%     6.44MB / 7.68MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       74.45%    318.6MiB / 15.51GiB   2.01%     47.3MB / 66.4MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.94%    283.2MiB / 15.51GiB   1.78%     10.1MB / 11.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   108.95%   120.3MiB / 15.51GiB   0.76%     73.4MB / 72.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.70%    221.5MiB / 15.51GiB   1.39%     6.53MB / 7.79MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       75.88%    318.5MiB / 15.51GiB   2.01%     48MB / 67.4MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.51%    285.5MiB / 15.51GiB   1.80%     10.2MB / 11.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   115.42%   120.2MiB / 15.51GiB   0.76%     74.4MB / 73.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      25.71%    223.2MiB / 15.51GiB   1.41%     6.63MB / 7.91MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       79.52%    318.6MiB / 15.51GiB   2.01%     48.7MB / 68.3MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.91%    288MiB / 15.51GiB     1.81%     10.4MB / 11.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   106.30%   120.3MiB / 15.51GiB   0.76%     75.5MB / 74.5MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      18.25%    224.8MiB / 15.51GiB   1.42%     6.71MB / 8.02MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       71.96%    283.4MiB / 15.51GiB   1.78%     49.4MB / 69.3MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.85%    290.3MiB / 15.51GiB   1.83%     10.5MB / 12.1MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   112.28%   120.3MiB / 15.51GiB   0.76%     76.5MB / 75.5MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      22.25%    226.4MiB / 15.51GiB   1.43%     6.8MB / 8.13MB    26.5MB / 0B   33
+d00160f26308   petstore-pet       72.89%    283.4MiB / 15.51GiB   1.78%     50MB / 70.3MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.24%    292.6MiB / 15.51GiB   1.84%     10.7MB / 12.2MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   115.40%   120.2MiB / 15.51GiB   0.76%     77.7MB / 76.6MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.37%    228MiB / 15.51GiB     1.44%     6.89MB / 8.23MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       81.15%    283.4MiB / 15.51GiB   1.78%     50.8MB / 71.3MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.19%    295.1MiB / 15.51GiB   1.86%     10.8MB / 12.4MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   113.98%   120.2MiB / 15.51GiB   0.76%     78.7MB / 77.6MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.88%    229.7MiB / 15.51GiB   1.45%     6.98MB / 8.35MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       75.64%    283.5MiB / 15.51GiB   1.78%     51.4MB / 72.3MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.23%    297.5MiB / 15.51GiB   1.87%     10.9MB / 12.6MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   103.84%   120.2MiB / 15.51GiB   0.76%     79.8MB / 78.7MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      16.49%    231.3MiB / 15.51GiB   1.46%     7.07MB / 8.46MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       73.63%    283.4MiB / 15.51GiB   1.78%     52.2MB / 73.3MB   11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.01%    299.9MiB / 15.51GiB   1.89%     11.1MB / 12.7MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   90.36%    120.3MiB / 15.51GiB   0.76%     80.9MB / 79.8MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.24%    233MiB / 15.51GiB     1.47%     7.17MB / 8.57MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       63.19%    283.6MiB / 15.51GiB   1.79%     52.8MB / 74.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.82%    302.2MiB / 15.51GiB   1.90%     11.2MB / 12.9MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   109.85%   120.3MiB / 15.51GiB   0.76%     82MB / 80.9MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.50%    234.5MiB / 15.51GiB   1.48%     7.25MB / 8.67MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       81.48%    283.5MiB / 15.51GiB   1.78%     53.6MB / 75.3MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.28%    304.8MiB / 15.51GiB   1.92%     11.4MB / 13.1MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   95.89%    120.3MiB / 15.51GiB   0.76%     83MB / 81.9MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      16.46%    236.3MiB / 15.51GiB   1.49%     7.35MB / 8.79MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       66.97%    283.4MiB / 15.51GiB   1.78%     54.2MB / 76.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.55%    307.1MiB / 15.51GiB   1.93%     11.5MB / 13.2MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   115.80%   120.4MiB / 15.51GiB   0.76%     84.1MB / 83MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.90%    237.7MiB / 15.51GiB   1.50%     7.43MB / 8.89MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       86.42%    283.5MiB / 15.51GiB   1.78%     55MB / 77.2MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.12%    309.6MiB / 15.51GiB   1.95%     11.7MB / 13.4MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   107.26%   120.2MiB / 15.51GiB   0.76%     85.2MB / 84MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.09%    239.7MiB / 15.51GiB   1.51%     7.53MB / 9.02MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       74.55%    283.4MiB / 15.51GiB   1.78%     55.6MB / 78.2MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     30.85%    311.8MiB / 15.51GiB   1.96%     11.8MB / 13.5MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   106.93%   120.3MiB / 15.51GiB   0.76%     86.2MB / 85.1MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.91%    241.2MiB / 15.51GiB   1.52%     7.62MB / 9.12MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       76.11%    283.6MiB / 15.51GiB   1.78%     56.3MB / 79.1MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.54%    314.3MiB / 15.51GiB   1.98%     11.9MB / 13.7MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   100.36%   120.3MiB / 15.51GiB   0.76%     87.3MB / 86.1MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.63%    242.9MiB / 15.51GiB   1.53%     7.71MB / 9.24MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       70.53%    283.4MiB / 15.51GiB   1.78%     57MB / 80.1MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.01%    316.6MiB / 15.51GiB   1.99%     12.1MB / 13.9MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   101.21%   120.5MiB / 15.51GiB   0.76%     88.4MB / 87.2MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.78%    244.4MiB / 15.51GiB   1.54%     7.8MB / 9.34MB    26.5MB / 0B   34
+d00160f26308   petstore-pet       74.12%    251.4MiB / 15.51GiB   1.58%     57.7MB / 81.1MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.75%    319MiB / 15.51GiB     2.01%     12.2MB / 14MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   114.90%   120.3MiB / 15.51GiB   0.76%     89.5MB / 88.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      15.86%    246.1MiB / 15.51GiB   1.55%     7.89MB / 9.45MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       81.04%    251.3MiB / 15.51GiB   1.58%     58.4MB / 82.1MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.02%    321.4MiB / 15.51GiB   2.02%     12.4MB / 14.2MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   110.10%   120.3MiB / 15.51GiB   0.76%     90.5MB / 89.3MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.13%    247.8MiB / 15.51GiB   1.56%     7.98MB / 9.57MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       72.29%    251.4MiB / 15.51GiB   1.58%     59.1MB / 83.1MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.66%    316.4MiB / 15.51GiB   1.99%     12.5MB / 14.4MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   102.44%   120.3MiB / 15.51GiB   0.76%     91.6MB / 90.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      18.31%    249.4MiB / 15.51GiB   1.57%     8.07MB / 9.68MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       78.71%    251.4MiB / 15.51GiB   1.58%     59.8MB / 84.1MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.58%    316.4MiB / 15.51GiB   1.99%     12.6MB / 14.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   98.35%    120.3MiB / 15.51GiB   0.76%     92.7MB / 91.4MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.34%    251.1MiB / 15.51GiB   1.58%     8.16MB / 9.79MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       66.60%    251.3MiB / 15.51GiB   1.58%     60.5MB / 85MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.47%    316.5MiB / 15.51GiB   1.99%     12.8MB / 14.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   108.18%   120.4MiB / 15.51GiB   0.76%     93.8MB / 92.5MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.89%    252.7MiB / 15.51GiB   1.59%     8.25MB / 9.9MB    26.5MB / 0B   35
+d00160f26308   petstore-pet       78.97%    251.4MiB / 15.51GiB   1.58%     61.2MB / 86.1MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.53%    316.6MiB / 15.51GiB   1.99%     12.9MB / 14.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.19%   120.4MiB / 15.51GiB   0.76%     94.9MB / 93.5MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.69%    254.4MiB / 15.51GiB   1.60%     8.35MB / 10MB     26.5MB / 0B   35
+d00160f26308   petstore-pet       71.36%    251.4MiB / 15.51GiB   1.58%     61.9MB / 87MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.78%    316.6MiB / 15.51GiB   1.99%     13.1MB / 15.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.05%   120.6MiB / 15.51GiB   0.76%     96.3MB / 95MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.30%    256.3MiB / 15.51GiB   1.61%     8.45MB / 10.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       81.59%    251.6MiB / 15.51GiB   1.58%     62.9MB / 88.4MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.28%    316.8MiB / 15.51GiB   1.99%     13.3MB / 15.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   120.35%   120.5MiB / 15.51GiB   0.76%     97.9MB / 96.6MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.18%    258.9MiB / 15.51GiB   1.63%     8.59MB / 10.3MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       92.67%    251.5MiB / 15.51GiB   1.58%     63.9MB / 89.9MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.64%    316.7MiB / 15.51GiB   1.99%     13.5MB / 15.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   105.59%   120.6MiB / 15.51GiB   0.76%     99.5MB / 98.1MB   3.21MB / 0B   39
+16f2a85f42a5   petstore-user      25.78%    261.5MiB / 15.51GiB   1.65%     8.73MB / 10.5MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       80.23%    214.3MiB / 15.51GiB   1.35%     65MB / 91.4MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.10%    316.7MiB / 15.51GiB   1.99%     13.7MB / 15.8MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   116.17%   115.5MiB / 15.51GiB   0.73%     101MB / 99.7MB    3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.76%    261.1MiB / 15.51GiB   1.64%     8.86MB / 10.6MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       92.71%    214.2MiB / 15.51GiB   1.35%     66MB / 92.8MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     27.78%    316.7MiB / 15.51GiB   1.99%     13.9MB / 16MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   102.12%   112.5MiB / 15.51GiB   0.71%     102MB / 101MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      16.09%    261.1MiB / 15.51GiB   1.64%     8.97MB / 10.8MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       87.08%    214.4MiB / 15.51GiB   1.35%     66.8MB / 93.9MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.67%    316.8MiB / 15.51GiB   1.99%     14.1MB / 16.3MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   111.26%   109.4MiB / 15.51GiB   0.69%     104MB / 103MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      14.54%    261.2MiB / 15.51GiB   1.64%     9.1MB / 10.9MB    26.5MB / 0B   34
+d00160f26308   petstore-pet       88.12%    189.3MiB / 15.51GiB   1.19%     67.9MB / 95.5MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.96%    316.7MiB / 15.51GiB   1.99%     14.3MB / 16.5MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   97.00%    109.4MiB / 15.51GiB   0.69%     106MB / 104MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.54%    261.1MiB / 15.51GiB   1.64%     9.24MB / 11.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       64.86%    189.4MiB / 15.51GiB   1.19%     68.9MB / 96.9MB   11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     30.38%    316.7MiB / 15.51GiB   1.99%     14.5MB / 16.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   102.20%   107.6MiB / 15.51GiB   0.68%     107MB / 106MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.43%    261.2MiB / 15.51GiB   1.64%     9.37MB / 11.3MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       81.01%    189.5MiB / 15.51GiB   1.19%     70MB / 98.4MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.22%    316.9MiB / 15.51GiB   1.99%     14.8MB / 17MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   113.87%   105.9MiB / 15.51GiB   0.67%     109MB / 107MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.93%    261.3MiB / 15.51GiB   1.64%     9.51MB / 11.5MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       83.66%    172.7MiB / 15.51GiB   1.09%     71MB / 99.8MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.77%    316.8MiB / 15.51GiB   1.99%     15MB / 17.3MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   101.70%   104.6MiB / 15.51GiB   0.66%     110MB / 109MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      18.90%    261.1MiB / 15.51GiB   1.64%     9.64MB / 11.6MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       78.66%    172.8MiB / 15.51GiB   1.09%     72.1MB / 101MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.44%    316.8MiB / 15.51GiB   1.99%     15.2MB / 17.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.53%   103.8MiB / 15.51GiB   0.65%     112MB / 111MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      24.80%    261.1MiB / 15.51GiB   1.64%     9.78MB / 11.8MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       87.33%    172.8MiB / 15.51GiB   1.09%     73.1MB / 103MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.70%    316.8MiB / 15.51GiB   1.99%     15.4MB / 17.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   108.31%   103.3MiB / 15.51GiB   0.65%     114MB / 112MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.90%    261.1MiB / 15.51GiB   1.64%     9.92MB / 11.9MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       85.11%    161.7MiB / 15.51GiB   1.02%     74.2MB / 104MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.53%    316.8MiB / 15.51GiB   1.99%     15.6MB / 18MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.81%   102.4MiB / 15.51GiB   0.64%     115MB / 114MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.82%    261.1MiB / 15.51GiB   1.64%     10.1MB / 12.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       84.24%    161.7MiB / 15.51GiB   1.02%     75.3MB / 106MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.73%    316.7MiB / 15.51GiB   1.99%     15.8MB / 18.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   113.57%   101.5MiB / 15.51GiB   0.64%     117MB / 115MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      25.23%    261.1MiB / 15.51GiB   1.64%     10.2MB / 12.3MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       81.99%    161.8MiB / 15.51GiB   1.02%     76.3MB / 107MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.39%    316.8MiB / 15.51GiB   1.99%     16MB / 18.5MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   117.90%   100.7MiB / 15.51GiB   0.63%     119MB / 117MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      22.92%    261.1MiB / 15.51GiB   1.64%     10.3MB / 12.4MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       90.07%    154.4MiB / 15.51GiB   0.97%     77.4MB / 109MB    11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.40%    316.8MiB / 15.51GiB   1.99%     16.2MB / 18.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   115.94%   100.9MiB / 15.51GiB   0.64%     120MB / 118MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      20.76%    261.5MiB / 15.51GiB   1.65%     10.4MB / 12.6MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       79.62%    154.1MiB / 15.51GiB   0.97%     78.2MB / 110MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.54%    316.9MiB / 15.51GiB   2.00%     16.4MB / 19MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   123.01%   100.2MiB / 15.51GiB   0.63%     121MB / 120MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.28%    261.4MiB / 15.51GiB   1.65%     10.6MB / 12.7MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       85.96%    154.4MiB / 15.51GiB   0.97%     79.2MB / 111MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.28%    317.1MiB / 15.51GiB   2.00%     16.7MB / 19.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   108.32%   99.62MiB / 15.51GiB   0.63%     123MB / 121MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      15.84%    261.4MiB / 15.51GiB   1.65%     10.7MB / 12.9MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       84.10%    149.2MiB / 15.51GiB   0.94%     80.3MB / 113MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.84%    316.9MiB / 15.51GiB   2.00%     16.9MB / 19.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   110.05%   99.3MiB / 15.51GiB    0.63%     125MB / 123MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.54%    261.3MiB / 15.51GiB   1.65%     10.8MB / 13.1MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       74.32%    149.5MiB / 15.51GiB   0.94%     81.3MB / 114MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.15%    317.1MiB / 15.51GiB   2.00%     17.1MB / 19.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   112.27%   98.45MiB / 15.51GiB   0.62%     126MB / 125MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      16.35%    261.4MiB / 15.51GiB   1.65%     11MB / 13.2MB     26.5MB / 0B   33
+d00160f26308   petstore-pet       89.59%    149.3MiB / 15.51GiB   0.94%     82.5MB / 116MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.99%    317MiB / 15.51GiB     2.00%     17.3MB / 20MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.43%   98.05MiB / 15.51GiB   0.62%     128MB / 126MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.37%    261.4MiB / 15.51GiB   1.65%     11.1MB / 13.4MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       74.03%    146.2MiB / 15.51GiB   0.92%     83.4MB / 117MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     28.44%    317MiB / 15.51GiB     2.00%     17.5MB / 20.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   106.04%   97.24MiB / 15.51GiB   0.61%     130MB / 128MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      13.88%    261.5MiB / 15.51GiB   1.65%     11.2MB / 13.6MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       80.66%    146.2MiB / 15.51GiB   0.92%     84.6MB / 119MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.69%    317MiB / 15.51GiB     2.00%     17.7MB / 20.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   110.23%   97.2MiB / 15.51GiB    0.61%     131MB / 129MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.28%    261.5MiB / 15.51GiB   1.65%     11.4MB / 13.8MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       69.47%    146.2MiB / 15.51GiB   0.92%     85.5MB / 120MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.19%    317.1MiB / 15.51GiB   2.00%     17.9MB / 20.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   115.20%   96.77MiB / 15.51GiB   0.61%     133MB / 131MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.01%    261.4MiB / 15.51GiB   1.65%     11.5MB / 13.9MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       93.11%    144MiB / 15.51GiB     0.91%     86.7MB / 122MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.28%    317MiB / 15.51GiB     2.00%     18.2MB / 21MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   111.70%   95.95MiB / 15.51GiB   0.60%     135MB / 133MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      24.46%    261.5MiB / 15.51GiB   1.65%     11.7MB / 14.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       76.29%    143.9MiB / 15.51GiB   0.91%     87.7MB / 123MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.41%    317MiB / 15.51GiB     2.00%     18.4MB / 21.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.07%   95.62MiB / 15.51GiB   0.60%     136MB / 134MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.20%    261.5MiB / 15.51GiB   1.65%     11.8MB / 14.3MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       88.82%    144.2MiB / 15.51GiB   0.91%     88.8MB / 125MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.31%    316.9MiB / 15.51GiB   2.00%     18.6MB / 21.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   101.94%   95.06MiB / 15.51GiB   0.60%     138MB / 136MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.39%    261.5MiB / 15.51GiB   1.65%     11.9MB / 14.4MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       68.20%    142.4MiB / 15.51GiB   0.90%     89.6MB / 126MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.38%    317MiB / 15.51GiB     2.00%     18.8MB / 21.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   111.88%   94.59MiB / 15.51GiB   0.60%     139MB / 137MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.86%    261.5MiB / 15.51GiB   1.65%     12.1MB / 14.6MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       79.17%    142.7MiB / 15.51GiB   0.90%     90.6MB / 128MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.89%    317.1MiB / 15.51GiB   2.00%     19MB / 21.9MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   95.86%    94.2MiB / 15.51GiB    0.59%     141MB / 139MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      75.29%    267.8MiB / 15.51GiB   1.69%     12.2MB / 14.8MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       70.56%    142MiB / 15.51GiB     0.89%     91.7MB / 129MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.53%    316.8MiB / 15.51GiB   1.99%     19.2MB / 22.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   101.41%   94.17MiB / 15.51GiB   0.59%     142MB / 140MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      17.94%    267.8MiB / 15.51GiB   1.69%     12.4MB / 14.9MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       96.75%    147.8MiB / 15.51GiB   0.93%     92.8MB / 130MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.41%    316.8MiB / 15.51GiB   1.99%     19.4MB / 22.4MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   118.99%   94.07MiB / 15.51GiB   0.59%     144MB / 142MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      17.23%    267.8MiB / 15.51GiB   1.69%     12.5MB / 15.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       90.20%    147.1MiB / 15.51GiB   0.93%     93.9MB / 132MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.43%    316.7MiB / 15.51GiB   1.99%     19.6MB / 22.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   104.31%   93.55MiB / 15.51GiB   0.59%     145MB / 143MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      22.11%    265.9MiB / 15.51GiB   1.67%     12.6MB / 15.2MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       73.70%    147.1MiB / 15.51GiB   0.93%     94.8MB / 133MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.65%    316.8MiB / 15.51GiB   1.99%     19.8MB / 22.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   119.57%   93.3MiB / 15.51GiB    0.59%     147MB / 145MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      22.28%    265.9MiB / 15.51GiB   1.67%     12.8MB / 15.4MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       90.26%    147.1MiB / 15.51GiB   0.93%     95.9MB / 135MB    11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.55%    316.8MiB / 15.51GiB   1.99%     20.1MB / 23.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   112.22%   93.14MiB / 15.51GiB   0.59%     149MB / 147MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      23.62%    265.9MiB / 15.51GiB   1.67%     12.9MB / 15.5MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       79.23%    141.7MiB / 15.51GiB   0.89%     96.9MB / 136MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.66%    316.8MiB / 15.51GiB   1.99%     20.3MB / 23.3MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   110.18%   92.97MiB / 15.51GiB   0.59%     150MB / 148MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      16.13%    265.9MiB / 15.51GiB   1.67%     13MB / 15.7MB     26.5MB / 0B   34
+d00160f26308   petstore-pet       79.69%    141.8MiB / 15.51GiB   0.89%     98MB / 138MB      11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.42%    316.8MiB / 15.51GiB   1.99%     20.5MB / 23.6MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   122.93%   92.91MiB / 15.51GiB   0.58%     152MB / 150MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.28%    266.1MiB / 15.51GiB   1.67%     13.2MB / 15.9MB   26.5MB / 0B   36
+d00160f26308   petstore-pet       87.39%    141.7MiB / 15.51GiB   0.89%     99.1MB / 139MB    11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.18%    316.7MiB / 15.51GiB   1.99%     20.7MB / 23.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   113.50%   93.05MiB / 15.51GiB   0.59%     154MB / 151MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.98%    266MiB / 15.51GiB     1.67%     13.3MB / 16MB     26.5MB / 0B   36
+d00160f26308   petstore-pet       83.87%    139.1MiB / 15.51GiB   0.88%     100MB / 141MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.47%    316.7MiB / 15.51GiB   1.99%     20.9MB / 24MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   107.21%   92.92MiB / 15.51GiB   0.58%     155MB / 153MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.05%    266MiB / 15.51GiB     1.67%     13.5MB / 16.1MB   26.5MB / 0B   35
+d00160f26308   petstore-pet       79.94%    139.1MiB / 15.51GiB   0.88%     101MB / 142MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.95%    316.7MiB / 15.51GiB   1.99%     21.1MB / 24.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   105.15%   92.78MiB / 15.51GiB   0.58%     157MB / 154MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      23.77%    266.1MiB / 15.51GiB   1.68%     13.6MB / 16.3MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       78.98%    139.1MiB / 15.51GiB   0.88%     102MB / 144MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.15%    316.8MiB / 15.51GiB   1.99%     21.3MB / 24.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.70%   92.75MiB / 15.51GiB   0.58%     158MB / 156MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      21.48%    266.1MiB / 15.51GiB   1.68%     13.7MB / 16.4MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       87.81%    137.3MiB / 15.51GiB   0.86%     103MB / 145MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.43%    316.8MiB / 15.51GiB   1.99%     21.5MB / 24.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   111.19%   92.85MiB / 15.51GiB   0.58%     160MB / 157MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      15.66%    270.3MiB / 15.51GiB   1.70%     13.8MB / 16.6MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       105.40%   137.8MiB / 15.51GiB   0.87%     104MB / 146MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.29%    316.8MiB / 15.51GiB   1.99%     21.7MB / 24.9MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   120.74%   92.64MiB / 15.51GiB   0.58%     161MB / 159MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      26.75%    270.3MiB / 15.51GiB   1.70%     14MB / 16.8MB     26.5MB / 0B   39
+d00160f26308   petstore-pet       85.16%    136.6MiB / 15.51GiB   0.86%     105MB / 148MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.46%    316.8MiB / 15.51GiB   1.99%     21.9MB / 25.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   117.89%   92.72MiB / 15.51GiB   0.58%     163MB / 161MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      15.45%    270.2MiB / 15.51GiB   1.70%     14.1MB / 16.9MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       89.85%    136.6MiB / 15.51GiB   0.86%     106MB / 149MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.79%    293.5MiB / 15.51GiB   1.85%     22.1MB / 25.3MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   111.36%   92.81MiB / 15.51GiB   0.58%     165MB / 162MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      29.12%    265.7MiB / 15.51GiB   1.67%     14.3MB / 17.1MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       77.81%    136.6MiB / 15.51GiB   0.86%     107MB / 151MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.09%    293.5MiB / 15.51GiB   1.85%     22.3MB / 25.5MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   114.79%   92.8MiB / 15.51GiB    0.58%     166MB / 164MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      24.87%    250.7MiB / 15.51GiB   1.58%     14.4MB / 17.2MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       94.98%    135.8MiB / 15.51GiB   0.85%     108MB / 152MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.40%    293.5MiB / 15.51GiB   1.85%     22.5MB / 25.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   106.19%   92.57MiB / 15.51GiB   0.58%     168MB / 165MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      24.75%    249.8MiB / 15.51GiB   1.57%     14.5MB / 17.4MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       75.39%    135.7MiB / 15.51GiB   0.85%     109MB / 153MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.01%    293.5MiB / 15.51GiB   1.85%     22.7MB / 26MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   109.03%   92.62MiB / 15.51GiB   0.58%     169MB / 167MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      19.45%    249.8MiB / 15.51GiB   1.57%     14.6MB / 17.5MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       84.92%    135.8MiB / 15.51GiB   0.85%     110MB / 155MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.35%    293.5MiB / 15.51GiB   1.85%     23MB / 26.2MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   112.36%   92.7MiB / 15.51GiB    0.58%     171MB / 168MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      24.00%    249.8MiB / 15.51GiB   1.57%     14.8MB / 17.7MB   26.5MB / 0B   38
+d00160f26308   petstore-pet       76.46%    134.7MiB / 15.51GiB   0.85%     111MB / 156MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.27%    293.5MiB / 15.51GiB   1.85%     23.2MB / 26.4MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   128.17%   92.75MiB / 15.51GiB   0.58%     173MB / 170MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      20.50%    249.8MiB / 15.51GiB   1.57%     14.9MB / 17.8MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       96.05%    135.1MiB / 15.51GiB   0.85%     113MB / 158MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.14%    293.6MiB / 15.51GiB   1.85%     23.4MB / 26.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   120.73%   92.61MiB / 15.51GiB   0.58%     174MB / 172MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.69%    249.8MiB / 15.51GiB   1.57%     15.1MB / 18MB     26.5MB / 0B   37
+d00160f26308   petstore-pet       89.48%    134.6MiB / 15.51GiB   0.85%     114MB / 159MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.43%    293.5MiB / 15.51GiB   1.85%     23.6MB / 26.9MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   112.41%   92.8MiB / 15.51GiB    0.58%     176MB / 173MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      24.32%    249.8MiB / 15.51GiB   1.57%     15.2MB / 18.1MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       78.50%    134MiB / 15.51GiB     0.84%     115MB / 161MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.79%    293.5MiB / 15.51GiB   1.85%     23.8MB / 27.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   119.28%   92.7MiB / 15.51GiB    0.58%     178MB / 175MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      17.13%    249.8MiB / 15.51GiB   1.57%     15.3MB / 18.3MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       90.74%    133.9MiB / 15.51GiB   0.84%     116MB / 162MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.70%    293.5MiB / 15.51GiB   1.85%     24MB / 27.3MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   114.18%   92.65MiB / 15.51GiB   0.58%     179MB / 176MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      26.16%    249.8MiB / 15.51GiB   1.57%     15.5MB / 18.4MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       68.84%    133.8MiB / 15.51GiB   0.84%     117MB / 164MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.40%    293.5MiB / 15.51GiB   1.85%     24.2MB / 27.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   121.24%   92.77MiB / 15.51GiB   0.58%     180MB / 178MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      25.15%    249.8MiB / 15.51GiB   1.57%     15.6MB / 18.6MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       78.39%    133.6MiB / 15.51GiB   0.84%     117MB / 165MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.17%    293.5MiB / 15.51GiB   1.85%     24.4MB / 27.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.59%   92.79MiB / 15.51GiB   0.58%     182MB / 179MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      15.93%    249.8MiB / 15.51GiB   1.57%     15.7MB / 18.7MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       91.38%    133.4MiB / 15.51GiB   0.84%     119MB / 166MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.43%    293.5MiB / 15.51GiB   1.85%     24.6MB / 28MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   108.98%   92.76MiB / 15.51GiB   0.58%     184MB / 181MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.01%    249.8MiB / 15.51GiB   1.57%     15.9MB / 18.9MB   26.5MB / 0B   37
+d00160f26308   petstore-pet       68.30%    133.5MiB / 15.51GiB   0.84%     120MB / 168MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.22%    293.5MiB / 15.51GiB   1.85%     24.8MB / 28.2MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   107.15%   92.78MiB / 15.51GiB   0.58%     185MB / 183MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      16.92%    249.8MiB / 15.51GiB   1.57%     16MB / 19.1MB     26.5MB / 0B   37
+d00160f26308   petstore-pet       82.01%    133.3MiB / 15.51GiB   0.84%     121MB / 169MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.50%    293.5MiB / 15.51GiB   1.85%     25MB / 28.5MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   117.44%   92.86MiB / 15.51GiB   0.58%     187MB / 184MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      30.38%    249.6MiB / 15.51GiB   1.57%     16.1MB / 19.2MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       78.73%    133.1MiB / 15.51GiB   0.84%     122MB / 171MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.86%    293.5MiB / 15.51GiB   1.85%     25.2MB / 28.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   113.85%   92.74MiB / 15.51GiB   0.58%     189MB / 186MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      17.49%    249.6MiB / 15.51GiB   1.57%     16.3MB / 19.4MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       88.05%    133.1MiB / 15.51GiB   0.84%     123MB / 172MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.15%    293.5MiB / 15.51GiB   1.85%     25.5MB / 29MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   100.84%   92.86MiB / 15.51GiB   0.58%     191MB / 188MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      20.91%    249.6MiB / 15.51GiB   1.57%     16.4MB / 19.6MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       70.69%    132.9MiB / 15.51GiB   0.84%     124MB / 174MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.26%    293.5MiB / 15.51GiB   1.85%     25.8MB / 29.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   111.70%   92.95MiB / 15.51GiB   0.59%     193MB / 190MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      19.00%    249.6MiB / 15.51GiB   1.57%     16.6MB / 19.8MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       82.52%    133MiB / 15.51GiB     0.84%     126MB / 176MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.76%    293.5MiB / 15.51GiB   1.85%     26.1MB / 29.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   114.40%   93.05MiB / 15.51GiB   0.59%     195MB / 192MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.24%    249.6MiB / 15.51GiB   1.57%     16.8MB / 20MB     26.5MB / 0B   33
+d00160f26308   petstore-pet       86.27%    132.8MiB / 15.51GiB   0.84%     127MB / 178MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.86%    293.5MiB / 15.51GiB   1.85%     26.3MB / 29.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   113.04%   93.24MiB / 15.51GiB   0.59%     197MB / 194MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      53.56%    251.2MiB / 15.51GiB   1.58%     17MB / 20.2MB     26.5MB / 0B   34
+d00160f26308   petstore-pet       75.77%    133MiB / 15.51GiB     0.84%     128MB / 180MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.26%    293.5MiB / 15.51GiB   1.85%     26.6MB / 30.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   111.98%   93.12MiB / 15.51GiB   0.59%     199MB / 196MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.67%    251.2MiB / 15.51GiB   1.58%     17.2MB / 20.4MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       88.06%    132.8MiB / 15.51GiB   0.84%     130MB / 182MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.03%    293.5MiB / 15.51GiB   1.85%     26.9MB / 30.4MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   103.92%   93.37MiB / 15.51GiB   0.59%     201MB / 198MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.99%    251.2MiB / 15.51GiB   1.58%     17.4MB / 20.7MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       72.13%    132.8MiB / 15.51GiB   0.84%     131MB / 184MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.54%    293.5MiB / 15.51GiB   1.85%     27.2MB / 30.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   124.97%   93.16MiB / 15.51GiB   0.59%     203MB / 200MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.95%    251.2MiB / 15.51GiB   1.58%     17.5MB / 20.9MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       99.95%    132.8MiB / 15.51GiB   0.84%     133MB / 186MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.45%    293.5MiB / 15.51GiB   1.85%     27.5MB / 31.1MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   101.17%   93.13MiB / 15.51GiB   0.59%     206MB / 203MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      18.07%    251.2MiB / 15.51GiB   1.58%     17.7MB / 21.1MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       69.80%    132.9MiB / 15.51GiB   0.84%     134MB / 188MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.05%    293.5MiB / 15.51GiB   1.85%     27.8MB / 31.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.74%   93.14MiB / 15.51GiB   0.59%     208MB / 205MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      26.07%    251.2MiB / 15.51GiB   1.58%     17.9MB / 21.3MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       86.37%    132.7MiB / 15.51GiB   0.84%     135MB / 190MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.18%    293.5MiB / 15.51GiB   1.85%     28.1MB / 31.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   118.04%   93.19MiB / 15.51GiB   0.59%     210MB / 207MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      23.50%    251.2MiB / 15.51GiB   1.58%     18.1MB / 21.5MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       85.02%    132.7MiB / 15.51GiB   0.84%     137MB / 192MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.71%    293.5MiB / 15.51GiB   1.85%     28.3MB / 32MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.96%   93.21MiB / 15.51GiB   0.59%     212MB / 209MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.83%    251.2MiB / 15.51GiB   1.58%     18.3MB / 21.8MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       89.07%    132.7MiB / 15.51GiB   0.84%     138MB / 194MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.36%    293.5MiB / 15.51GiB   1.85%     28.6MB / 32.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   101.68%   93.27MiB / 15.51GiB   0.59%     214MB / 211MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.60%    251.2MiB / 15.51GiB   1.58%     18.4MB / 22MB     26.5MB / 0B   33
+d00160f26308   petstore-pet       74.06%    132.6MiB / 15.51GiB   0.83%     139MB / 195MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.36%    293.5MiB / 15.51GiB   1.85%     28.9MB / 32.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   115.56%   93.16MiB / 15.51GiB   0.59%     216MB / 213MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.69%    251.2MiB / 15.51GiB   1.58%     18.6MB / 22.2MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       85.67%    132.6MiB / 15.51GiB   0.83%     141MB / 197MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     49.17%    257.9MiB / 15.51GiB   1.62%     29.2MB / 32.9MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   115.46%   93.22MiB / 15.51GiB   0.59%     219MB / 215MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      22.99%    251.2MiB / 15.51GiB   1.58%     18.8MB / 22.4MB   26.5MB / 0B   34
+d00160f26308   petstore-pet       86.16%    132.6MiB / 15.51GiB   0.83%     142MB / 199MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.46%    257.9MiB / 15.51GiB   1.62%     29.5MB / 33.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   118.68%   93.26MiB / 15.51GiB   0.59%     221MB / 217MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      27.29%    251.2MiB / 15.51GiB   1.58%     19MB / 22.6MB     26.5MB / 0B   34
+d00160f26308   petstore-pet       89.39%    132.7MiB / 15.51GiB   0.84%     144MB / 201MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.97%    257.9MiB / 15.51GiB   1.62%     29.8MB / 33.5MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   114.27%   92.89MiB / 15.51GiB   0.58%     223MB / 220MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.49%    251.2MiB / 15.51GiB   1.58%     19.2MB / 22.9MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       83.62%    132.6MiB / 15.51GiB   0.83%     145MB / 203MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.14%    257.9MiB / 15.51GiB   1.62%     30MB / 33.8MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   115.36%   93MiB / 15.51GiB      0.59%     225MB / 222MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      27.86%    251.2MiB / 15.51GiB   1.58%     19.4MB / 23.1MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       84.46%    132.6MiB / 15.51GiB   0.83%     146MB / 205MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.22%    257.9MiB / 15.51GiB   1.62%     30.3MB / 34.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   112.99%   93.01MiB / 15.51GiB   0.59%     227MB / 224MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      22.19%    251.2MiB / 15.51GiB   1.58%     19.5MB / 23.3MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       85.19%    132.5MiB / 15.51GiB   0.83%     148MB / 207MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.61%    257.9MiB / 15.51GiB   1.62%     30.6MB / 34.4MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   118.67%   93.21MiB / 15.51GiB   0.59%     229MB / 226MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      27.64%    251.2MiB / 15.51GiB   1.58%     19.7MB / 23.5MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       87.78%    132.6MiB / 15.51GiB   0.83%     149MB / 209MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.09%    257.9MiB / 15.51GiB   1.62%     30.9MB / 34.7MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   110.98%   93.01MiB / 15.51GiB   0.59%     232MB / 228MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.82%    251.2MiB / 15.51GiB   1.58%     19.9MB / 23.7MB   26.5MB / 0B   33
+d00160f26308   petstore-pet       86.40%    132.6MiB / 15.51GiB   0.83%     151MB / 211MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.52%    257.9MiB / 15.51GiB   1.62%     31.2MB / 35MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   110.42%   92.95MiB / 15.51GiB   0.59%     234MB / 230MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.74%    251.2MiB / 15.51GiB   1.58%     20.1MB / 23.9MB   26.5MB / 0B   32
+d00160f26308   petstore-pet       82.12%    132.5MiB / 15.51GiB   0.83%     152MB / 213MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.62%    257.9MiB / 15.51GiB   1.62%     31.4MB / 35.3MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   109.38%   92.96MiB / 15.51GiB   0.59%     236MB / 232MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.92%    232.1MiB / 15.51GiB   1.46%     20.3MB / 24.1MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       87.97%    132.6MiB / 15.51GiB   0.83%     153MB / 215MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     33.51%    257.9MiB / 15.51GiB   1.62%     31.7MB / 35.6MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   94.94%    92.98MiB / 15.51GiB   0.59%     238MB / 234MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      18.33%    232.1MiB / 15.51GiB   1.46%     20.5MB / 24.4MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       68.39%    132.6MiB / 15.51GiB   0.83%     155MB / 217MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.84%    258MiB / 15.51GiB     1.62%     32MB / 35.9MB     4.01MB / 0B   31
+1ba03914190e   petstore-gateway   122.56%   93.26MiB / 15.51GiB   0.59%     240MB / 237MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      23.61%    232.1MiB / 15.51GiB   1.46%     20.6MB / 24.6MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       94.57%    132.6MiB / 15.51GiB   0.83%     156MB / 219MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.50%    257.9MiB / 15.51GiB   1.62%     32.3MB / 36.2MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   118.16%   93.11MiB / 15.51GiB   0.59%     242MB / 239MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      24.02%    232.1MiB / 15.51GiB   1.46%     20.8MB / 24.8MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       84.74%    132.6MiB / 15.51GiB   0.83%     158MB / 221MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     48.83%    257.9MiB / 15.51GiB   1.62%     32.6MB / 36.5MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   125.31%   93.25MiB / 15.51GiB   0.59%     244MB / 241MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      25.56%    232.1MiB / 15.51GiB   1.46%     21MB / 25MB       26.5MB / 0B   40
+d00160f26308   petstore-pet       92.83%    132.6MiB / 15.51GiB   0.83%     159MB / 223MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.54%    257.9MiB / 15.51GiB   1.62%     32.9MB / 36.8MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   108.21%   93.05MiB / 15.51GiB   0.59%     247MB / 243MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      21.22%    232.1MiB / 15.51GiB   1.46%     21.2MB / 25.2MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       83.18%    132.6MiB / 15.51GiB   0.83%     161MB / 225MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.54%    257.9MiB / 15.51GiB   1.62%     33.2MB / 37.1MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   100.68%   93.01MiB / 15.51GiB   0.59%     249MB / 245MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      18.98%    232.1MiB / 15.51GiB   1.46%     21.4MB / 25.5MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       73.77%    132.6MiB / 15.51GiB   0.83%     162MB / 227MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.87%    257.9MiB / 15.51GiB   1.62%     33.4MB / 37.4MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   122.36%   93.03MiB / 15.51GiB   0.59%     251MB / 247MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      23.20%    232.1MiB / 15.51GiB   1.46%     21.5MB / 25.7MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       96.29%    132.5MiB / 15.51GiB   0.83%     163MB / 229MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.07%    258MiB / 15.51GiB     1.62%     33.7MB / 37.7MB   4.01MB / 0B   31
+1ba03914190e   petstore-gateway   102.03%   93.34MiB / 15.51GiB   0.59%     253MB / 249MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      18.48%    232.1MiB / 15.51GiB   1.46%     21.7MB / 25.9MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       72.85%    132.6MiB / 15.51GiB   0.83%     165MB / 231MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.80%    257.9MiB / 15.51GiB   1.62%     34MB / 38MB       4.01MB / 0B   31
+1ba03914190e   petstore-gateway   113.77%   93.08MiB / 15.51GiB   0.59%     255MB / 251MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      20.79%    232.1MiB / 15.51GiB   1.46%     21.9MB / 26.1MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       84.42%    132.6MiB / 15.51GiB   0.83%     166MB / 233MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.03%    257.9MiB / 15.51GiB   1.62%     34.3MB / 38.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   106.60%   93.19MiB / 15.51GiB   0.59%     258MB / 254MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      22.41%    232.1MiB / 15.51GiB   1.46%     22.1MB / 26.3MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       82.87%    132.6MiB / 15.51GiB   0.83%     168MB / 235MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.56%    257.9MiB / 15.51GiB   1.62%     34.6MB / 38.6MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   105.57%   93.18MiB / 15.51GiB   0.59%     260MB / 256MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      20.43%    232.1MiB / 15.51GiB   1.46%     22.3MB / 26.5MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       79.34%    132.5MiB / 15.51GiB   0.83%     169MB / 236MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     32.42%    227.2MiB / 15.51GiB   1.43%     34.9MB / 38.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   95.58%    93.2MiB / 15.51GiB    0.59%     262MB / 258MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      16.31%    232.1MiB / 15.51GiB   1.46%     22.5MB / 26.8MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       73.93%    132.6MiB / 15.51GiB   0.83%     170MB / 238MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.86%    227.2MiB / 15.51GiB   1.43%     35.1MB / 39.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   99.80%    93.18MiB / 15.51GiB   0.59%     264MB / 260MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      18.93%    232.1MiB / 15.51GiB   1.46%     22.6MB / 27MB     26.5MB / 0B   40
+d00160f26308   petstore-pet       73.35%    132.6MiB / 15.51GiB   0.83%     172MB / 240MB     11.4MB / 0B   33
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.02%    227.2MiB / 15.51GiB   1.43%     35.4MB / 39.5MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   111.97%   93.06MiB / 15.51GiB   0.59%     266MB / 262MB     3.21MB / 0B   44
+16f2a85f42a5   petstore-user      23.09%    232.5MiB / 15.51GiB   1.46%     22.8MB / 27.2MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       86.36%    132.6MiB / 15.51GiB   0.83%     173MB / 242MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.12%    227.3MiB / 15.51GiB   1.43%     35.7MB / 39.8MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   107.76%   93.05MiB / 15.51GiB   0.59%     268MB / 264MB     3.21MB / 0B   44
+16f2a85f42a5   petstore-user      21.45%    232.5MiB / 15.51GiB   1.46%     23MB / 27.4MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       80.43%    132.5MiB / 15.51GiB   0.83%     175MB / 244MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     35.21%    227.2MiB / 15.51GiB   1.43%     36MB / 40.1MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   106.75%   92.98MiB / 15.51GiB   0.59%     270MB / 266MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      18.82%    232.5MiB / 15.51GiB   1.46%     23.2MB / 27.6MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       79.94%    132.6MiB / 15.51GiB   0.83%     176MB / 246MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.65%    227.2MiB / 15.51GiB   1.43%     36.3MB / 40.4MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   105.72%   93.1MiB / 15.51GiB    0.59%     273MB / 269MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      19.04%    232.5MiB / 15.51GiB   1.46%     23.4MB / 27.9MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       80.38%    132.7MiB / 15.51GiB   0.84%     177MB / 248MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.40%    227.2MiB / 15.51GiB   1.43%     36.5MB / 40.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   109.78%   93.07MiB / 15.51GiB   0.59%     275MB / 271MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      22.17%    232.5MiB / 15.51GiB   1.46%     23.5MB / 28.1MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       80.79%    132.5MiB / 15.51GiB   0.83%     179MB / 250MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.63%    227.4MiB / 15.51GiB   1.43%     36.8MB / 41MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   104.50%   93MiB / 15.51GiB      0.59%     277MB / 273MB     3.21MB / 0B   43
+16f2a85f42a5   petstore-user      18.85%    232.5MiB / 15.51GiB   1.46%     23.7MB / 28.3MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       77.97%    132.5MiB / 15.51GiB   0.83%     180MB / 252MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.94%    227.2MiB / 15.51GiB   1.43%     37.1MB / 41.3MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   110.66%   92.86MiB / 15.51GiB   0.58%     279MB / 275MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      22.96%    232.5MiB / 15.51GiB   1.46%     23.9MB / 28.5MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       79.30%    132.5MiB / 15.51GiB   0.83%     182MB / 254MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.00%    227.2MiB / 15.51GiB   1.43%     37.4MB / 41.6MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   120.80%   92.95MiB / 15.51GiB   0.59%     281MB / 277MB     3.21MB / 0B   42
+16f2a85f42a5   petstore-user      22.63%    232.5MiB / 15.51GiB   1.46%     24.1MB / 28.7MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       91.83%    132.5MiB / 15.51GiB   0.83%     183MB / 256MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.04%    227.2MiB / 15.51GiB   1.43%     37.7MB / 42MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   104.04%   93.14MiB / 15.51GiB   0.59%     283MB / 279MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      20.17%    232.5MiB / 15.51GiB   1.46%     24.3MB / 28.9MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       75.64%    132.5MiB / 15.51GiB   0.83%     184MB / 258MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.49%    227.2MiB / 15.51GiB   1.43%     38MB / 42.3MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   116.52%   92.93MiB / 15.51GiB   0.58%     286MB / 281MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      27.56%    232.5MiB / 15.51GiB   1.46%     24.5MB / 29.2MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       87.22%    132.6MiB / 15.51GiB   0.83%     186MB / 260MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     38.02%    227.2MiB / 15.51GiB   1.43%     38.3MB / 42.6MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   108.14%   92.94MiB / 15.51GiB   0.59%     288MB / 283MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.13%    201MiB / 15.51GiB     1.26%     24.6MB / 29.4MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       81.76%    132.5MiB / 15.51GiB   0.83%     187MB / 262MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     37.06%    227.2MiB / 15.51GiB   1.43%     38.6MB / 42.9MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   106.33%   92.95MiB / 15.51GiB   0.59%     290MB / 285MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.95%    201MiB / 15.51GiB     1.27%     24.8MB / 29.6MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       75.91%    132.5MiB / 15.51GiB   0.83%     189MB / 264MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     36.25%    227.2MiB / 15.51GiB   1.43%     38.8MB / 43.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   109.87%   92.83MiB / 15.51GiB   0.58%     292MB / 288MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.76%    201MiB / 15.51GiB     1.26%     25MB / 29.8MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       81.39%    132.6MiB / 15.51GiB   0.83%     190MB / 266MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.47%    227.3MiB / 15.51GiB   1.43%     39.1MB / 43.5MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   109.96%   92.82MiB / 15.51GiB   0.58%     294MB / 290MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.13%    201MiB / 15.51GiB     1.27%     25.2MB / 30MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       80.20%    132.5MiB / 15.51GiB   0.83%     191MB / 268MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.25%    192.3MiB / 15.51GiB   1.21%     39.4MB / 43.8MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   116.00%   92.81MiB / 15.51GiB   0.58%     296MB / 292MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.09%    200.9MiB / 15.51GiB   1.26%     25.4MB / 30.3MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       83.29%    132.5MiB / 15.51GiB   0.83%     193MB / 270MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     40.61%    192.3MiB / 15.51GiB   1.21%     39.7MB / 44.1MB   4.01MB / 0B   34
+1ba03914190e   petstore-gateway   122.35%   93.01MiB / 15.51GiB   0.59%     299MB / 294MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.27%    201MiB / 15.51GiB     1.27%     25.5MB / 30.5MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       90.43%    132.5MiB / 15.51GiB   0.83%     194MB / 272MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     39.45%    192.2MiB / 15.51GiB   1.21%     40MB / 44.4MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   107.60%   92.83MiB / 15.51GiB   0.58%     301MB / 296MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.44%    200.9MiB / 15.51GiB   1.26%     25.7MB / 30.7MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       76.13%    132.5MiB / 15.51GiB   0.83%     196MB / 274MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.91%    192.2MiB / 15.51GiB   1.21%     40.3MB / 44.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   132.80%   92.83MiB / 15.51GiB   0.58%     303MB / 298MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      24.17%    201MiB / 15.51GiB     1.27%     25.9MB / 30.9MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       102.91%   132.5MiB / 15.51GiB   0.83%     197MB / 276MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.43%    192.2MiB / 15.51GiB   1.21%     40.5MB / 45MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   99.98%    92.84MiB / 15.51GiB   0.58%     305MB / 300MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      19.45%    201MiB / 15.51GiB     1.27%     26.1MB / 31.1MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       71.75%    132.5MiB / 15.51GiB   0.83%     198MB / 278MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.70%    192.2MiB / 15.51GiB   1.21%     40.8MB / 45.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   117.58%   92.98MiB / 15.51GiB   0.59%     307MB / 303MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.55%    200.9MiB / 15.51GiB   1.26%     26.3MB / 31.3MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       93.08%    132.6MiB / 15.51GiB   0.83%     200MB / 280MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.60%    192.2MiB / 15.51GiB   1.21%     41MB / 45.5MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   98.21%    93MiB / 15.51GiB      0.59%     309MB / 304MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.52%    201MiB / 15.51GiB     1.27%     26.4MB / 31.5MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       74.51%    132.5MiB / 15.51GiB   0.83%     201MB / 281MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     31.34%    176.6MiB / 15.51GiB   1.11%     41.3MB / 45.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   117.00%   93.04MiB / 15.51GiB   0.59%     311MB / 306MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      15.53%    180MiB / 15.51GiB     1.13%     26.6MB / 31.7MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       90.16%    132.7MiB / 15.51GiB   0.84%     202MB / 283MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.41%    170MiB / 15.51GiB     1.07%     41.6MB / 46.1MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   108.92%   93.39MiB / 15.51GiB   0.59%     313MB / 308MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      22.48%    180MiB / 15.51GiB     1.13%     26.8MB / 32MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       68.97%    132.6MiB / 15.51GiB   0.83%     204MB / 285MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     34.90%    170MiB / 15.51GiB     1.07%     41.9MB / 46.4MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   118.37%   93.42MiB / 15.51GiB   0.59%     315MB / 310MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      23.26%    179.9MiB / 15.51GiB   1.13%     26.9MB / 32.2MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       88.96%    132.7MiB / 15.51GiB   0.84%     205MB / 287MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.86%    170MiB / 15.51GiB     1.07%     42.2MB / 46.8MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   141.27%   93.91MiB / 15.51GiB   0.59%     318MB / 313MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.53%    180MiB / 15.51GiB     1.13%     27.2MB / 32.5MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       104.65%   132.7MiB / 15.51GiB   0.84%     207MB / 290MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.06%    170MiB / 15.51GiB     1.07%     42.6MB / 47.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   130.86%   93.98MiB / 15.51GiB   0.59%     321MB / 316MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      28.94%    180MiB / 15.51GiB     1.13%     27.4MB / 32.8MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       89.88%    132.7MiB / 15.51GiB   0.84%     209MB / 292MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.92%    170MiB / 15.51GiB     1.07%     43MB / 47.7MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   131.47%   94MiB / 15.51GiB      0.59%     324MB / 319MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.32%    180.1MiB / 15.51GiB   1.13%     27.7MB / 33.1MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       106.08%   130.1MiB / 15.51GiB   0.82%     211MB / 295MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     48.91%    154.4MiB / 15.51GiB   0.97%     43.5MB / 48.1MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   122.68%   93.91MiB / 15.51GiB   0.59%     327MB / 322MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      26.67%    180MiB / 15.51GiB     1.13%     28MB / 33.4MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       86.72%    130.2MiB / 15.51GiB   0.82%     213MB / 298MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.79%    154.4MiB / 15.51GiB   0.97%     43.9MB / 48.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   129.64%   93.96MiB / 15.51GiB   0.59%     331MB / 326MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      21.63%    180MiB / 15.51GiB     1.13%     28.2MB / 33.7MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       101.51%   128.4MiB / 15.51GiB   0.81%     215MB / 301MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.83%    154.4MiB / 15.51GiB   0.97%     44.3MB / 49MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   116.20%   94.27MiB / 15.51GiB   0.59%     334MB / 329MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      34.36%    166.8MiB / 15.51GiB   1.05%     28.5MB / 34.1MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       81.77%    127.3MiB / 15.51GiB   0.80%     217MB / 304MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.91%    154.4MiB / 15.51GiB   0.97%     44.6MB / 49.3MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   127.13%   95.18MiB / 15.51GiB   0.60%     336MB / 331MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      22.06%    168.9MiB / 15.51GiB   1.06%     28.8MB / 34.4MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       92.71%    126.8MiB / 15.51GiB   0.80%     219MB / 306MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.78%    154.4MiB / 15.51GiB   0.97%     45MB / 49.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   128.81%   95.28MiB / 15.51GiB   0.60%     339MB / 334MB   3.21MB / 0B   40
+16f2a85f42a5   petstore-user      26.84%    168.7MiB / 15.51GiB   1.06%     29MB / 34.7MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       96.50%    127MiB / 15.51GiB     0.80%     221MB / 309MB   11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     55.35%    154.5MiB / 15.51GiB   0.97%     45.4MB / 50.2MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   131.94%   95.2MiB / 15.51GiB    0.60%     343MB / 337MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      31.06%    168.8MiB / 15.51GiB   1.06%     29.3MB / 35MB     26.5MB / 0B   42
+d00160f26308   petstore-pet       106.72%   126.4MiB / 15.51GiB   0.80%     223MB / 312MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.82%    144.1MiB / 15.51GiB   0.91%     45.9MB / 50.7MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   121.62%   95.12MiB / 15.51GiB   0.60%     346MB / 340MB     3.21MB / 0B   41
+16f2a85f42a5   petstore-user      27.41%    159.4MiB / 15.51GiB   1.00%     29.6MB / 35.4MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       90.28%    126MiB / 15.51GiB     0.79%     225MB / 315MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     51.49%    146MiB / 15.51GiB     0.92%     46.3MB / 51.1MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   127.17%   94.91MiB / 15.51GiB   0.60%     349MB / 344MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      21.70%    159.4MiB / 15.51GiB   1.00%     29.8MB / 35.7MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       99.58%    125.9MiB / 15.51GiB   0.79%     227MB / 318MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     45.45%    146MiB / 15.51GiB     0.92%     46.7MB / 51.6MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   120.40%   95.14MiB / 15.51GiB   0.60%     352MB / 347MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      26.61%    159.5MiB / 15.51GiB   1.00%     30.1MB / 36MB     26.5MB / 0B   41
+d00160f26308   petstore-pet       90.00%    126MiB / 15.51GiB     0.79%     229MB / 321MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     43.51%    145.9MiB / 15.51GiB   0.92%     47.1MB / 52MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   130.46%   94.73MiB / 15.51GiB   0.60%     356MB / 350MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.55%    159.5MiB / 15.51GiB   1.00%     30.4MB / 36.4MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       101.40%   126MiB / 15.51GiB     0.79%     231MB / 324MB     11.4MB / 0B   31
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     51.19%    137.5MiB / 15.51GiB   0.87%     47.5MB / 52.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   124.26%   95.2MiB / 15.51GiB    0.60%     359MB / 353MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      28.91%    159.5MiB / 15.51GiB   1.00%     30.7MB / 36.7MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       94.43%    126.1MiB / 15.51GiB   0.79%     233MB / 326MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.54%    137.5MiB / 15.51GiB   0.87%     47.8MB / 52.8MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   125.32%   94.82MiB / 15.51GiB   0.60%     361MB / 356MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      23.98%    159.5MiB / 15.51GiB   1.00%     30.9MB / 36.9MB   26.5MB / 0B   42
+d00160f26308   petstore-pet       90.92%    126.2MiB / 15.51GiB   0.79%     235MB / 329MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     48.72%    137.5MiB / 15.51GiB   0.87%     48.2MB / 53.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   129.83%   94.83MiB / 15.51GiB   0.60%     364MB / 358MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      34.24%    159.4MiB / 15.51GiB   1.00%     31.1MB / 37.3MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       92.98%    126.4MiB / 15.51GiB   0.80%     237MB / 331MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     41.08%    137.5MiB / 15.51GiB   0.87%     48.7MB / 53.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   127.40%   94.87MiB / 15.51GiB   0.60%     368MB / 362MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.34%    153.3MiB / 15.51GiB   0.96%     31.4MB / 37.6MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       101.32%   126.3MiB / 15.51GiB   0.80%     239MB / 335MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.44%    137.5MiB / 15.51GiB   0.87%     49.1MB / 54.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   121.72%   94.9MiB / 15.51GiB    0.60%     371MB / 365MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      28.47%    153.2MiB / 15.51GiB   0.96%     31.7MB / 37.9MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       85.54%    126.2MiB / 15.51GiB   0.79%     241MB / 337MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     42.63%    132.9MiB / 15.51GiB   0.84%     49.5MB / 54.6MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   129.65%   94.95MiB / 15.51GiB   0.60%     374MB / 368MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      20.61%    153.3MiB / 15.51GiB   0.96%     31.9MB / 38.2MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       104.29%   126.2MiB / 15.51GiB   0.79%     243MB / 340MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.90%    132.9MiB / 15.51GiB   0.84%     50MB / 55.1MB     4.01MB / 0B   33
+1ba03914190e   petstore-gateway   120.02%   95.14MiB / 15.51GiB   0.60%     377MB / 371MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      26.89%    153.2MiB / 15.51GiB   0.96%     32.2MB / 38.6MB   26.5MB / 0B   41
+d00160f26308   petstore-pet       84.46%    126.2MiB / 15.51GiB   0.79%     245MB / 343MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.43%    132.9MiB / 15.51GiB   0.84%     50.4MB / 55.5MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   134.77%   95.3MiB / 15.51GiB    0.60%     380MB / 375MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      26.39%    153.1MiB / 15.51GiB   0.96%     32.5MB / 38.9MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       106.04%   126.2MiB / 15.51GiB   0.79%     247MB / 346MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     50.30%    132.9MiB / 15.51GiB   0.84%     50.8MB / 56MB     4.01MB / 0B   32
+1ba03914190e   petstore-gateway   131.21%   95.32MiB / 15.51GiB   0.60%     384MB / 378MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      28.76%    153.3MiB / 15.51GiB   0.96%     32.8MB / 39.3MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       98.37%    126.2MiB / 15.51GiB   0.79%     250MB / 349MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     48.14%    132.9MiB / 15.51GiB   0.84%     51.2MB / 56.4MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   138.83%   95.46MiB / 15.51GiB   0.60%     387MB / 381MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      26.55%    153.2MiB / 15.51GiB   0.96%     33MB / 39.6MB     26.5MB / 0B   40
+d00160f26308   petstore-pet       108.55%   126.2MiB / 15.51GiB   0.79%     252MB / 352MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     44.19%    129.8MiB / 15.51GiB   0.82%     51.6MB / 56.9MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   124.98%   95.89MiB / 15.51GiB   0.60%     390MB / 384MB     3.21MB / 0B   40
+16f2a85f42a5   petstore-user      25.49%    153.2MiB / 15.51GiB   0.96%     33.3MB / 39.9MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       92.63%    126.2MiB / 15.51GiB   0.79%     254MB / 355MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.63%    129.8MiB / 15.51GiB   0.82%     52.1MB / 57.3MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   132.57%   95.86MiB / 15.51GiB   0.60%     393MB / 387MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      25.39%    149MiB / 15.51GiB     0.94%     33.6MB / 40.3MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       105.66%   126.2MiB / 15.51GiB   0.79%     256MB / 358MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     47.65%    129.8MiB / 15.51GiB   0.82%     52.5MB / 57.8MB   4.01MB / 0B   33
+1ba03914190e   petstore-gateway   125.55%   95.97MiB / 15.51GiB   0.60%     397MB / 391MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      23.82%    149.1MiB / 15.51GiB   0.94%     33.8MB / 40.6MB   26.5MB / 0B   40
+d00160f26308   petstore-pet       96.60%    126.3MiB / 15.51GiB   0.79%     258MB / 361MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     46.85%    129.9MiB / 15.51GiB   0.82%     52.9MB / 58.2MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   127.00%   95.95MiB / 15.51GiB   0.60%     400MB / 394MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      29.07%    149MiB / 15.51GiB     0.94%     34.1MB / 40.9MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       100.52%   126.2MiB / 15.51GiB   0.79%     260MB / 364MB     11.4MB / 0B   32
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+95bc5a382aff   petstore-store     48.33%    129.8MiB / 15.51GiB   0.82%     53.3MB / 58.7MB   4.01MB / 0B   32
+1ba03914190e   petstore-gateway   131.34%   95.86MiB / 15.51GiB   0.60%     403MB / 397MB     3.21MB / 0B   39
+16f2a85f42a5   petstore-user      23.77%    149.1MiB / 15.51GiB   0.94%     34.4MB / 41.3MB   26.5MB / 0B   39
+d00160f26308   petstore-pet       100.49%   126.1MiB / 15.51GiB   0.79%     262MB / 367MB     11.4MB / 0B   32
